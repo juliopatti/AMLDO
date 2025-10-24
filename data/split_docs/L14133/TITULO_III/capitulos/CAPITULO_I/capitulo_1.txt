@@ -1,0 +1,204 @@
+DA FORMALIZAÇÃO DOS CONTRATOS
+
+[[ARTICLE: 89]]
+Art. 89. Os contratos de que trata esta Lei regular-se-ão pelas suas cláusulas e pelos preceitos de direito
+público, e a eles serão aplicados, supletivamente, os princípios da teoria geral dos contratos e as disposições de
+direito privado.
+[[PARAGRAPH: §1]]
+§ 1º Todo contrato deverá mencionar os nomes das partes e os de seus representantes, a finalidade, o ato que
+autorizou sua lavratura, o número do processo da licitação ou da contratação direta e a sujeição dos contratantes às
+normas desta Lei e às cláusulas contratuais.
+[[PARAGRAPH: §2]]
+§ 2º Os contratos deverão estabelecer com clareza e precisão as condições para sua execução, expressas em
+cláusulas que definam os direitos, as obrigações e as responsabilidades das partes, em conformidade com os termos
+do edital de licitação e os da proposta vencedora ou com os termos do ato que autorizou a contratação direta e os da
+respectiva proposta.
+
+[[ARTICLE: 90]]
+Art. 90. A Administração convocará regularmente o licitante vencedor para assinar o termo de contrato ou para
+aceitar ou retirar o instrumento equivalente, dentro do prazo e nas condições estabelecidas no edital de licitação, sob
+pena de decair o direito à contratação, sem prejuízo das sanções previstas nesta Lei.
+[[PARAGRAPH: §1]]
+§ 1º O prazo de convocação poderá ser prorrogado 1 (uma) vez, por igual período, mediante solicitação da
+parte durante seu transcurso, devidamente justificada, e desde que o motivo apresentado seja aceito pela
+Administração.
+[[PARAGRAPH: §2]]
+§ 2º Será facultado à Administração, quando o convocado não assinar o termo de contrato ou não aceitar ou
+não retirar o instrumento equivalente no prazo e nas condições estabelecidas, convocar os licitantes remanescentes,
+na ordem de classificação, para a celebração do contrato nas condições propostas pelo licitante vencedor.
+[[PARAGRAPH: §3]]
+§ 3º Decorrido o prazo de validade da proposta indicado no edital sem convocação para a contratação, ficarão
+os licitantes liberados dos compromissos assumidos.
+[[PARAGRAPH: §4]]
+§ 4º Na hipótese de nenhum dos licitantes aceitar a contratação nos termos do § 2º deste artigo, a
+Administração, observados o valor estimado e sua eventual atualização nos termos do edital, poderá:
+I - convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas à obtenção de
+preço melhor, mesmo que acima do preço do adjudicatário;
+II - adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes, atendida a ordem
+classificatória, quando frustrada a negociação de melhor condição.
+[[PARAGRAPH: §5]]
+§ 5º A recusa injustificada do adjudicatário em assinar o contrato ou em aceitar ou retirar o instrumento
+equivalente no prazo estabelecido pela Administração caracterizará o descumprimento total da obrigação assumida e
+o sujeitará às penalidades legalmente estabelecidas e à imediata perda da garantia de proposta em favor do órgão ou
+entidade licitante.
+[[PARAGRAPH: §6]]
+§ 6º A regra do § 5º não se aplicará aos licitantes remanescentes convocados na forma do inciso I do § 4º deste
+artigo.
+[[PARAGRAPH: §7]]
+§ 7º Será facultada à Administração a convocação dos demais licitantes classificados para a contratação de
+remanescente de obra, de serviço ou de fornecimento em consequência de rescisão contratual, observados os
+mesmos critérios estabelecidos nos §§ 2º e 4º deste artigo.
+[[PARAGRAPH: §8]]
+§ 8º Na situação de que trata o § 7º deste artigo, é autorizado o aproveitamento, em favor da nova contratada, de
+eventual saldo a liquidar inscrito em despesas empenhadas ou em restos a pagar não processados. (Incluído pela Lei nº
+14.770, de 2023)
+[[PARAGRAPH: §9]]
+§ 9º Se frustradas as providências dos §§ 2º e 4º, o saldo de que trata o § 8º deste artigo poderá ser computado
+como efetiva disponibilidade para nova licitação, desde que identificada vantajosidade para a administração pública e
+mantido o objeto programado. (Incluído pela Lei nº 14.770, de 2023)
+
+[[ARTICLE: 91]]
+Art. 91. Os contratos e seus aditamentos terão forma escrita e serão juntados ao processo que tiver dado
+origem à contratação, divulgados e mantidos à disposição do público em sítio eletrônico oficial.
+[[PARAGRAPH: §1]]
+§ 1º Será admitida a manutenção em sigilo de contratos e de termos aditivos quando imprescindível à
+segurança da sociedade e do Estado, nos termos da legislação que regula o acesso à informação.
+[[PARAGRAPH: §2]]
+§ 2º Contratos relativos a direitos reais sobre imóveis serão formalizados por escritura pública lavrada em notas
+de tabelião, cujo teor deverá ser divulgado e mantido à disposição do público em sítio eletrônico oficial.
+[[PARAGRAPH: §3]]
+§ 3º Será admitida a forma eletrônica na celebração de contratos e de termos aditivos, atendidas as exigências
+previstas em regulamento.
+[[PARAGRAPH: §4]]
+§ 4º Antes de formalizar ou prorrogar o prazo de vigência do contrato, a Administração deverá verificar a
+regularidade fiscal do contratado, consultar o Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e o
+Cadastro Nacional de Empresas Punidas (Cnep), emitir as certidões negativas de inidoneidade, de impedimento e de
+débitos trabalhistas e juntá-las ao respectivo processo.
+
+[[ARTICLE: 92]]
+Art. 92. São necessárias em todo contrato cláusulas que estabeleçam:
+I - o objeto e seus elementos característicos;
+II - a vinculação ao edital de licitação e à proposta do licitante vencedor ou ao ato que tiver autorizado a
+contratação direta e à respectiva proposta;
+III - a legislação aplicável à execução do contrato, inclusive quanto aos casos omissos;
+IV - o regime de execução ou a forma de fornecimento;
+V - o preço e as condições de pagamento, os critérios, a data-base e a periodicidade do reajustamento de
+preços e os critérios de atualização monetária entre a data do adimplemento das obrigações e a do efetivo
+pagamento;
+VI - os critérios e a periodicidade da medição, quando for o caso, e o prazo para liquidação e para pagamento;
+VII - os prazos de início das etapas de execução, conclusão, entrega, observação e recebimento definitivo,
+quando for o caso;
+VIII - o crédito pelo qual correrá a despesa, com a indicação da classificação funcional programática e da
+categoria econômica;
+IX - a matriz de risco, quando for o caso;
+X - o prazo para resposta ao pedido de repactuação de preços, quando for o caso;
+XI - o prazo para resposta ao pedido de restabelecimento do equilíbrio econômico-financeiro, quando for o caso;
+XII - as garantias oferecidas para assegurar sua plena execução, quando exigidas, inclusive as que forem
+oferecidas pelo contratado no caso de antecipação de valores a título de pagamento;
+XIII - o prazo de garantia mínima do objeto, observados os prazos mínimos estabelecidos nesta Lei e nas
+normas técnicas aplicáveis, e as condições de manutenção e assistência técnica, quando for o caso;
+XIV - os direitos e as responsabilidades das partes, as penalidades cabíveis e os valores das multas e suas
+bases de cálculo;
+XV - as condições de importação e a data e a taxa de câmbio para conversão, quando for o caso;
+XVI - a obrigação do contratado de manter, durante toda a execução do contrato, em compatibilidade com as
+obrigações por ele assumidas, todas as condições exigidas para a habilitação na licitação, ou para a qualificação, na
+contratação direta;
+XVII - a obrigação de o contratado cumprir as exigências de reserva de cargos prevista em lei, bem como em
+outras normas específicas, para pessoa com deficiência, para reabilitado da Previdência Social e para aprendiz;
+XVIII - o modelo de gestão do contrato, observados os requisitos definidos em regulamento;
+XIX - os casos de extinção.
+[[PARAGRAPH: §1]]
+§ 1º Os contratos celebrados pela Administração Pública com pessoas físicas ou jurídicas, inclusive as
+domiciliadas no exterior, deverão conter cláusula que declare competente o foro da sede da Administração para dirimir
+qualquer questão contratual, ressalvadas as seguintes hipóteses:
+I - licitação internacional para a aquisição de bens e serviços cujo pagamento seja feito com o produto de
+financiamento concedido por organismo financeiro internacional de que o Brasil faça parte ou por agência estrangeira
+de cooperação;
+II - contratação com empresa estrangeira para a compra de equipamentos fabricados e entregues no exterior
+precedida de autorização do Chefe do Poder Executivo;
+III - aquisição de bens e serviços realizada por unidades administrativas com sede no exterior.
+[[PARAGRAPH: §2]]
+§ 2º De acordo com as peculiaridades de seu objeto e de seu regime de execução, o contrato conterá cláusula
+que preveja período antecedente à expedição da ordem de serviço para verificação de pendências, liberação de áreas
+ou adoção de outras providências cabíveis para a regularidade do início de sua execução.
+[[PARAGRAPH: §3]]
+§ 3º Independentemente do prazo de duração, o contrato deverá conter cláusula que estabeleça o índice de
+reajustamento de preço, com data-base vinculada à data do orçamento estimado, e poderá ser estabelecido mais de
+um índice específico ou setorial, em conformidade com a realidade de mercado dos respectivos insumos.
+[[PARAGRAPH: §4]]
+§ 4º Nos contratos de serviços contínuos, observado o interregno mínimo de 1 (um) ano, o critério de
+reajustamento de preços será por:
+I - reajustamento em sentido estrito, quando não houver regime de dedicação exclusiva de mão de obra ou
+predominância de mão de obra, mediante previsão de índices específicos ou setoriais;
+II - repactuação, quando houver regime de dedicação exclusiva de mão de obra ou predominância de mão de
+obra, mediante demonstração analítica da variação dos custos.
+[[PARAGRAPH: §5]]
+§ 5º Nos contratos de obras e serviços de engenharia, sempre que compatível com o regime de execução, a
+medição será mensal.
+[[PARAGRAPH: §6]]
+§ 6º Nos contratos para serviços contínuos com regime de dedicação exclusiva de mão de obra ou com
+predominância de mão de obra, o prazo para resposta ao pedido de repactuação de preços será preferencialmente de
+1 (um) mês, contado da data do fornecimento da documentação prevista no § 6º do art. 135 desta Lei.
+[[PARAGRAPH: §7]]
+§ 7º Para efeito do disposto nesta Lei, consideram-se como adimplemento da obrigação contratual a prestação
+do serviço, a realização da obra ou a entrega do bem, ou parcela destes, bem como qualquer outro evento contratual
+a cuja ocorrência esteja vinculada a emissão de documento de cobrança. (Incluído pela Lei nº 14.770, de 2023)
+
+[[ARTICLE: 93]]
+Art. 93. Nas contratações de projetos ou de serviços técnicos especializados, inclusive daqueles que
+contemplem o desenvolvimento de programas e aplicações de internet para computadores, máquinas, equipamentos
+e dispositivos de tratamento e de comunicação da informação (software) - e a respectiva documentação técnica
+associada -, o autor deverá ceder todos os direitos patrimoniais a eles relativos para a Administração Pública, hipótese
+em que poderão ser livremente utilizados e alterados por ela em outras ocasiões, sem necessidade de nova
+autorização de seu autor.
+[[PARAGRAPH: §1]]
+§ 1º Quando o projeto se referir a obra imaterial de caráter tecnológico, insuscetível de privilégio, a cessão dos
+direitos a que se refere o caput deste artigo incluirá o fornecimento de todos os dados, documentos e elementos de
+informação pertinentes à tecnologia de concepção, desenvolvimento, fixação em suporte físico de qualquer natureza e
+aplicação da obra.
+[[PARAGRAPH: §2]]
+§ 2º É facultado à Administração Pública deixar de exigir a cessão de direitos a que se refere o caput deste
+artigo quando o objeto da contratação envolver atividade de pesquisa e desenvolvimento de caráter científico,
+tecnológico ou de inovação, considerados os princípios e os mecanismos instituídos pela Lei nº 10.973, de 2 de
+dezembro de 2004.
+[[PARAGRAPH: §3]]
+§ 3º Na hipótese de posterior alteração do projeto pela Administração Pública, o autor deverá ser comunicado, e
+os registros serão promovidos nos órgãos ou entidades competentes.
+
+[[ARTICLE: 94]]
+Art. 94. A divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável para a
+eficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados da data de sua
+assinatura:
+I - 20 (vinte) dias úteis, no caso de licitação;
+II - 10 (dez) dias úteis, no caso de contratação direta.
+[[PARAGRAPH: §1]]
+§ 1º Os contratos celebrados em caso de urgência terão eficácia a partir de sua assinatura e deverão ser
+publicados nos prazos previstos nos incisos I e II do caput deste artigo, sob pena de nulidade.
+[[PARAGRAPH: §2]]
+§ 2º A divulgação de que trata o caput deste artigo, quando referente à contratação de profissional do setor
+artístico por inexigibilidade, deverá identificar os custos do cachê do artista, dos músicos ou da banda, quando houver,
+do transporte, da hospedagem, da infraestrutura, da logística do evento e das demais despesas específicas.
+[[PARAGRAPH: §3]]
+§ 3º No caso de obras, a Administração divulgará em sítio eletrônico oficial, em até 25 (vinte e cinco) dias úteis
+após a assinatura do contrato, os quantitativos e os preços unitários e totais que contratar e, em até 45 (quarenta e
+cinco) dias úteis após a conclusão do contrato, os quantitativos executados e os preços praticados.
+[[PARAGRAPH: §4]]
+§ 4º (VETADO).
+[[PARAGRAPH: §5]]
+§ 5º (VETADO).
+
+[[ARTICLE: 95]]
+Art. 95. O instrumento de contrato é obrigatório, salvo nas seguintes hipóteses, em que a Administração poderá
+substituí-lo por outro instrumento hábil, como carta-contrato, nota de empenho de despesa, autorização de compra ou
+ordem de execução de serviço:
+I - dispensa de licitação em razão de valor;
+II - compras com entrega imediata e integral dos bens adquiridos e dos quais não resultem obrigações futuras,
+inclusive quanto a assistência técnica, independentemente de seu valor.
+[[PARAGRAPH: §1]]
+§ 1º Às hipóteses de substituição do instrumento de contrato, aplica-se, no que couber, o disposto no art. 92
+desta Lei.
+[[PARAGRAPH: §2]]
+§ 2º É nulo e de nenhum efeito o contrato verbal com a Administração, salvo o de pequenas compras ou o de
+prestação de serviços de pronto pagamento, assim entendidos aqueles de valor não superior a R$ 10.000,00 (dez mil
+reais). (Vide Decreto nº 10.922, de 2021) (Vigência) (Vide Decreto nº 11.317, de 2022) Vigência (Vide
+Decreto nº 11.871, de 2023) Vigência (Vide Decreto nº 12.343, de 2024) Vigência

@@ -1,0 +1,27 @@
+Art. 33. No modo de disputa aberto e fechado, de que trata o inciso II do caput do art. 31, a etapa de envio de
+lances da sessão pública terá duração de quinze minutos.
+[[PARAGRAPH: §1]]
+§ 1º Encerrado o prazo previsto no caput, o sistema encaminhará o aviso de fechamento iminente dos lances
+e, transcorrido o período de até dez minutos, aleatoriamente determinado, a recepção de lances será
+automaticamente encerrada.
+[[PARAGRAPH: §2]]
+§ 2º Encerrado o prazo de que trata o § 1º, o sistema abrirá a oportunidade para que o autor da oferta de valor
+mais baixo e os autores das ofertas com valores até dez por cento superiores àquela possam ofertar um lance final e
+fechado em até cinco minutos, que será sigiloso até o encerramento deste prazo.
+[[PARAGRAPH: §3]]
+§ 3º Na ausência de, no mínimo, três ofertas nas condições de que trata o § 2º, os autores dos melhores lances
+subsequentes, na ordem de classificação, até o máximo de três, poderão oferecer um lance final e fechado em até
+cinco minutos, que será sigiloso até o encerramento do prazo.
+[[PARAGRAPH: §4]]
+§ 4º Encerrados os prazos estabelecidos nos § 2º e § 3º, o sistema ordenará os lances em ordem crescente de
+vantajosidade.
+[[PARAGRAPH: §5]]
+§ 5º Na ausência de lance final e fechado classificado nos termos dos § 2º e § 3º, haverá o reinício da etapa
+fechada para que os demais licitantes, até o máximo de três, na ordem de classificação, possam ofertar um lance final
+e fechado em até cinco minutos, que será sigiloso até o encerramento deste prazo, observado, após esta etapa, o
+disposto no § 4º.
+[[PARAGRAPH: §6]]
+§ 6º Na hipótese de não haver licitante classificado na etapa de lance fechado que atenda às exigências para
+habilitação, o pregoeiro poderá, auxiliado pela equipe de apoio, mediante justificativa, admitir o reinício da etapa
+fechada, nos termos do disposto no § 5º.
+Desconexão do sistema na etapa de lances

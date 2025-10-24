@@ -1,0 +1,171 @@
+DO PROCESSO LICITATÓRIO
+
+[[ARTICLE: 11]]
+Art. 11. O processo licitatório tem por objetivos:
+I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a
+Administração Pública, inclusive no que se refere ao ciclo de vida do objeto;
+II - assegurar tratamento isonômico entre os licitantes, bem como a justa competição;
+III - evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na
+execução dos contratos;
+IV - incentivar a inovação e o desenvolvimento nacional sustentável.
+Parágrafo único. A alta administração do órgão ou entidade é responsável pela governança das contratações e
+deve implementar processos e estruturas, inclusive de gestão de riscos e controles internos, para avaliar, direcionar e
+monitorar os processos licitatórios e os respectivos contratos, com o intuito de alcançar os objetivos estabelecidos no
+caput deste artigo, promover um ambiente íntegro e confiável, assegurar o alinhamento das contratações ao
+planejamento estratégico e às leis orçamentárias e promover eficiência, efetividade e eficácia em suas contratações.
+
+[[ARTICLE: 12]]
+Art. 12. No processo licitatório, observar-se-á o seguinte:
+I - os documentos serão produzidos por escrito, com data e local de sua realização e assinatura dos
+responsáveis;
+II - os valores, os preços e os custos utilizados terão como expressão monetária a moeda corrente nacional,
+ressalvado o disposto no art. 52 desta Lei;
+III - o desatendimento de exigências meramente formais que não comprometam a aferição da qualificação do
+licitante ou a compreensão do conteúdo de sua proposta não importará seu afastamento da licitação ou a invalidação
+do processo;
+IV - a prova de autenticidade de cópia de documento público ou particular poderá ser feita perante agente da
+Administração, mediante apresentação de original ou de declaração de autenticidade por advogado, sob sua
+responsabilidade pessoal;
+V - o reconhecimento de firma somente será exigido quando houver dúvida de autenticidade, salvo imposição
+legal;
+VI - os atos serão preferencialmente digitais, de forma a permitir que sejam produzidos, comunicados,
+armazenados e validados por meio eletrônico;
+VII - a partir de documentos de formalização de demandas, os órgãos responsáveis pelo planejamento de cada
+ente federativo poderão, na forma de regulamento, elaborar plano de contratações anual, com o objetivo de
+racionalizar as contratações dos órgãos e entidades sob sua competência, garantir o alinhamento com o seu
+planejamento estratégico e subsidiar a elaboração das respectivas leis orçamentárias. (Regulamento)
+[[PARAGRAPH: §1]]
+§ 1º O plano de contratações anual de que trata o inciso VII do caput deste artigo deverá ser divulgado e
+mantido à disposição do público em sítio eletrônico oficial e será observado pelo ente federativo na realização de
+licitações e na execução dos contratos.
+[[PARAGRAPH: §2]]
+§ 2º É permitida a identificação e assinatura digital por pessoa física ou jurídica em meio eletrônico, mediante
+certificado digital emitido em âmbito da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).
+
+[[ARTICLE: 13]]
+Art. 13. Os atos praticados no processo licitatório são públicos, ressalvadas as hipóteses de informações cujo
+sigilo seja imprescindível à segurança da sociedade e do Estado, na forma da lei.
+Parágrafo único. A publicidade será diferida:
+I - quanto ao conteúdo das propostas, até a respectiva abertura;
+II - quanto ao orçamento da Administração, nos termos do art. 24 desta Lei.
+
+[[ARTICLE: 14]]
+Art. 14. Não poderão disputar licitação ou participar da execução de contrato, direta ou indiretamente:
+I - autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física ou jurídica, quando a licitação
+versar sobre obra, serviços ou fornecimento de bens a ele relacionados;
+II - empresa, isoladamente ou em consórcio, responsável pela elaboração do projeto básico ou do projeto
+executivo, ou empresa da qual o autor do projeto seja dirigente, gerente, controlador, acionista ou detentor de mais de
+5% (cinco por cento) do capital com direito a voto, responsável técnico ou subcontratado, quando a licitação versar
+sobre obra, serviços ou fornecimento de bens a ela necessários;
+III - pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada de participar da licitação em
+decorrência de sanção que lhe foi imposta;
+IV - aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com
+dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação ou atue na
+fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou
+por afinidade, até o terceiro grau, devendo essa proibição constar expressamente do edital de licitação;
+V - empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de dezembro de 1976,
+concorrendo entre si;
+VI - pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada
+judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de trabalhadores a
+condições análogas às de escravo ou por contratação de adolescentes nos casos vedados pela legislação trabalhista.
+[[PARAGRAPH: §1]]
+§ 1º O impedimento de que trata o inciso III do caput deste artigo será também aplicado ao licitante que atue
+em substituição a outra pessoa, física ou jurídica, com o intuito de burlar a efetividade da sanção a ela aplicada,
+inclusive a sua controladora, controlada ou coligada, desde que devidamente comprovado o ilícito ou a utilização
+fraudulenta da personalidade jurídica do licitante.
+[[PARAGRAPH: §2]]
+§ 2º A critério da Administração e exclusivamente a seu serviço, o autor dos projetos e a empresa a que se
+referem os incisos I e II do caput deste artigo poderão participar no apoio das atividades de planejamento da
+contratação, de execução da licitação ou de gestão do contrato, desde que sob supervisão exclusiva de agentes
+públicos do órgão ou entidade.
+[[PARAGRAPH: §3]]
+§ 3º Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo econômico.
+[[PARAGRAPH: §4]]
+§ 4º O disposto neste artigo não impede a licitação ou a contratação de obra ou serviço que inclua como
+encargo do contratado a elaboração do projeto básico e do projeto executivo, nas contratações integradas, e do
+projeto executivo, nos demais regimes de execução.
+[[PARAGRAPH: §5]]
+§ 5º Em licitações e contratações realizadas no âmbito de projetos e programas parcialmente financiados por
+agência oficial de cooperação estrangeira ou por organismo financeiro internacional com recursos do financiamento ou
+da contrapartida nacional, não poderá participar pessoa física ou jurídica que integre o rol de pessoas sancionadas
+por essas entidades ou que seja declarada inidônea nos termos desta Lei.
+
+[[ARTICLE: 15]]
+Art. 15. Salvo vedação devidamente justificada no processo licitatório, pessoa jurídica poderá participar de
+licitação em consórcio, observadas as seguintes normas:
+I - comprovação de compromisso público ou particular de constituição de consórcio, subscrito pelos
+consorciados;
+II - indicação da empresa líder do consórcio, que será responsável por sua representação perante a
+Administração;
+III - admissão, para efeito de habilitação técnica, do somatório dos quantitativos de cada consorciado e, para
+efeito de habilitação econômico-financeira, do somatório dos valores de cada consorciado;
+IV - impedimento de a empresa consorciada participar, na mesma licitação, de mais de um consórcio ou de
+forma isolada;
+V - responsabilidade solidária dos integrantes pelos atos praticados em consórcio, tanto na fase de licitação
+quanto na de execução do contrato.
+[[PARAGRAPH: §1]]
+§ 1º O edital deverá estabelecer para o consórcio acréscimo de 10% (dez por cento) a 30% (trinta por cento)
+sobre o valor exigido de licitante individual para a habilitação econômico-financeira, salvo justificação.
+[[PARAGRAPH: §2]]
+§ 2º O acréscimo previsto no § 1º deste artigo não se aplica aos consórcios compostos, em sua totalidade, de
+microempresas e pequenas empresas, assim definidas em lei.
+[[PARAGRAPH: §3]]
+§ 3º O licitante vencedor é obrigado a promover, antes da celebração do contrato, a constituição e o registro do
+consórcio, nos termos do compromisso referido no inciso I do caput deste artigo.
+[[PARAGRAPH: §4]]
+§ 4º Desde que haja justificativa técnica aprovada pela autoridade competente, o edital de licitação poderá
+estabelecer limite máximo para o número de empresas consorciadas.
+[[PARAGRAPH: §5]]
+§ 5º A substituição de consorciado deverá ser expressamente autorizada pelo órgão ou entidade contratante e
+condicionada à comprovação de que a nova empresa do consórcio possui, no mínimo, os mesmos quantitativos para
+efeito de habilitação técnica e os mesmos valores para efeito de qualificação econômico-financeira apresentados pela
+empresa substituída para fins de habilitação do consórcio no processo licitatório que originou o contrato.
+
+[[ARTICLE: 16]]
+Art. 16. Os profissionais organizados sob a forma de cooperativa poderão participar de licitação quando:
+I - a constituição e o funcionamento da cooperativa observarem as regras estabelecidas na legislação aplicável,
+em especial a Lei nº 5.764, de 16 de dezembro de 1971, a Lei nº 12.690, de 19 de julho de 2012, e a Lei
+Complementar nº 130, de 17 de abril de 2009;
+II - a cooperativa apresentar demonstrativo de atuação em regime cooperado, com repartição de receitas e
+despesas entre os cooperados;
+III - qualquer cooperado, com igual qualificação, for capaz de executar o objeto contratado, vedado à
+Administração indicar nominalmente pessoas;
+IV - o objeto da licitação referir-se, em se tratando de cooperativas enquadradas na Lei nº 12.690, de 19 de
+julho de 2012, a serviços especializados constantes do objeto social da cooperativa, a serem executados de forma
+complementar à sua atuação.
+
+[[ARTICLE: 17]]
+Art. 17. O processo de licitação observará as seguintes fases, em sequência:
+I - preparatória;
+II - de divulgação do edital de licitação;
+III - de apresentação de propostas e lances, quando for o caso;
+IV - de julgamento;
+V - de habilitação;
+VI - recursal;
+VII - de homologação.
+[[PARAGRAPH: §1]]
+§ 1º A fase referida no inciso V do caput deste artigo poderá, mediante ato motivado com explicitação dos
+benefícios decorrentes, anteceder as fases referidas nos incisos III e IV do caput deste artigo, desde que
+expressamente previsto no edital de licitação.
+[[PARAGRAPH: §2]]
+§ 2º As licitações serão realizadas preferencialmente sob a forma eletrônica, admitida a utilização da forma
+presencial, desde que motivada, devendo a sessão pública ser registrada em ata e gravada em áudio e vídeo.
+[[PARAGRAPH: §3]]
+§ 3º Desde que previsto no edital, na fase a que se refere o inciso IV do caput deste artigo, o órgão ou entidade
+licitante poderá, em relação ao licitante provisoriamente vencedor, realizar análise e avaliação da conformidade da
+proposta, mediante homologação de amostras, exame de conformidade e prova de conceito, entre outros testes de
+interesse da Administração, de modo a comprovar sua aderência às especificações definidas no termo de referência
+ou no projeto básico.
+[[PARAGRAPH: §4]]
+§ 4º Nos procedimentos realizados por meio eletrônico, a Administração poderá determinar, como condição de
+validade e eficácia, que os licitantes pratiquem seus atos em formato eletrônico.
+[[PARAGRAPH: §5]]
+§ 5º Na hipótese excepcional de licitação sob a forma presencial a que refere o § 2º deste artigo, a sessão
+pública de apresentação de propostas deverá ser gravada em áudio e vídeo, e a gravação será juntada aos autos do
+processo licitatório depois de seu encerramento.
+[[PARAGRAPH: §6]]
+§ 6º A Administração poderá exigir certificação por organização independente acreditada pelo Instituto Nacional
+de Metrologia, Qualidade e Tecnologia (Inmetro) como condição para aceitação de:
+I - estudos, anteprojetos, projetos básicos e projetos executivos;
+II - conclusão de fases ou de objetos de contratos;
+III - material e corpo técnico apresentados por empresa para fins de habilitação.

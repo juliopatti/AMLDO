@@ -1,0 +1,11 @@
+Art. 5º O pregão, na forma eletrônica, será realizado quando a disputa pelo fornecimento de bens ou pela
+contratação de serviços comuns ocorrer à distância e em sessão pública, por meio do Sistema de Compras do
+Governo federal, disponível no endereço eletrônico www.comprasgovernamentais.gov.br.
+[[PARAGRAPH: §1]]
+§ 1º O sistema de que trata o caput será dotado de recursos de criptografia e de autenticação que garantam as
+condições de segurança nas etapas do certame.
+[[PARAGRAPH: §2]]
+§ 2º Na hipótese de que trata o § 3º do art. 1º, além do disposto no caput, poderão ser utilizados sistemas
+próprios ou outros sistemas disponíveis no mercado, desde que estejam integrados à plataforma de operacionalização
+das modalidades de transferências voluntárias.
+Etapas

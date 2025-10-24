@@ -1,0 +1,31 @@
+Art. 43. A habilitação dos licitantes será verificada por meio do Sicaf, nos documentos por ele abrangidos,
+quando os procedimentos licitatórios forem realizados por órgãos ou entidades integrantes do Sisg ou por aqueles que
+aderirem ao Sicaf.
+[[PARAGRAPH: §1]]
+§ 1º Os documentos exigidos para habilitação que não estejam contemplados no Sicaf serão enviados nos
+termos do disposto no art. 26.
+[[PARAGRAPH: §2]]
+§ 2º Na hipótese de necessidade de envio de documentos complementares após o julgamento da proposta, os
+documentos deverão ser apresentados em formato digital, via sistema, no prazo definido no edital, após solicitação do
+pregoeiro no sistema eletrônico, observado o prazo disposto no § 2º do art. 38.
+[[PARAGRAPH: §3]]
+§ 3º A verificação pelo órgão ou entidade promotora do certame nos sítios eletrônicos oficiais de órgãos e
+entidades emissores de certidões constitui meio legal de prova, para fins de habilitação.
+[[PARAGRAPH: §4]]
+§ 4º Na hipótese de a proposta vencedora não for aceitável ou o licitante não atender às exigências para
+habilitação, o pregoeiro examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, até a
+apuração de uma proposta que atenda ao edital.
+[[PARAGRAPH: §5]]
+§ 5º Na hipótese de contratação de serviços comuns em que a legislação ou o edital exija apresentação de
+planilha de composição de preços, esta deverá ser encaminhada exclusivamente via sistema, no prazo fixado no
+edital, com os respectivos valores readequados ao lance vencedor.
+[[PARAGRAPH: §6]]
+§ 6º No pregão, na forma eletrônica, realizado para o sistema de registro de preços, quando a proposta do
+licitante vencedor não atender ao quantitativo total estimado para a contratação, poderá ser convocada a quantidade
+de licitantes necessária para alcançar o total estimado, respeitada a ordem de classificação, observado o preço da
+proposta vencedora, precedida de posterior habilitação, nos termos do disposto no Capítulo X.
+[[PARAGRAPH: §7]]
+§ 7º A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte
+será exigida nos termos do disposto no art. 4º do Decreto nº 8.538, de 6 de outubro de 2015.
+[[PARAGRAPH: §8]]
+§ 8º Constatado o atendimento às exigências estabelecidas no edital, o licitante será declarado vencedor.

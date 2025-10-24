@@ -1,0 +1,104 @@
+DA FISCALIZAÇÃO
+
+[[SECTION: Seção I]]
+Das Sanções Administrativas
+
+[[ARTICLE: 52]]
+Art. 52. Os agentes de tratamento de dados, em razão das infrações cometidas às normas previstas nesta Lei,
+ficam sujeitos às seguintes sanções administrativas aplicáveis pela autoridade nacional: (Vigência)
+I - advertência, com indicação de prazo para adoção de medidas corretivas;
+II - multa simples, de até 2% (dois por cento) do faturamento da pessoa jurídica de direito privado, grupo ou
+conglomerado no Brasil no seu último exercício, excluídos os tributos, limitada, no total, a R$ 50.000.000,00
+(cinquenta milhões de reais) por infração;
+III - multa diária, observado o limite total a que se refere o inciso II;
+IV - publicização da infração após devidamente apurada e confirmada a sua ocorrência;
+V - bloqueio dos dados pessoais a que se refere a infração até a sua regularização;
+VI - eliminação dos dados pessoais a que se refere a infração;
+VII - (VETADO);
+VIII - (VETADO);
+IX - (VETADO).
+X - (VETADO); (Incluído pela Lei nº 13.853, de 2019) (Promulgação partes vetadas)
+XI - (VETADO); (Incluído pela Lei nº 13.853, de 2019) (Promulgação partes vetadas)
+XII - (VETADO). (Incluído pela Lei nº 13.853, de 2019) (Promulgação partes vetadas)
+X - suspensão parcial do funcionamento do banco de dados a que se refere a infração pelo período máximo de
+6 (seis) meses, prorrogável por igual período, até a regularização da atividade de tratamento pelo controlador;
+(Incluído pela Lei nº 13.853, de 2019)
+XI - suspensão do exercício da atividade de tratamento dos dados pessoais a que se refere a infração pelo
+período máximo de 6 (seis) meses, prorrogável por igual período; (Incluído pela Lei nº 13.853, de 2019)
+XII - proibição parcial ou total do exercício de atividades relacionadas a tratamento de dados. (Incluído pela Lei
+nº 13.853, de 2019)
+[[PARAGRAPH: §1]]
+§ 1º As sanções serão aplicadas após procedimento administrativo que possibilite a oportunidade da ampla
+defesa, de forma gradativa, isolada ou cumulativa, de acordo com as peculiaridades do caso concreto e considerados
+os seguintes parâmetros e critérios:
+I - a gravidade e a natureza das infrações e dos direitos pessoais afetados;
+II - a boa-fé do infrator;
+III - a vantagem auferida ou pretendida pelo infrator;
+IV - a condição econômica do infrator;
+V - a reincidência;
+VI - o grau do dano;
+VII - a cooperação do infrator;
+VIII - a adoção reiterada e demonstrada de mecanismos e procedimentos internos capazes de minimizar o dano,
+voltados ao tratamento seguro e adequado de dados, em consonância com o disposto no inciso II do § 2º do art. 48
+desta Lei;
+IX - a adoção de política de boas práticas e governança;
+X - a pronta adoção de medidas corretivas; e
+XI - a proporcionalidade entre a gravidade da falta e a intensidade da sanção.
+[[PARAGRAPH: §2]]
+§ 2º O disposto neste artigo não substitui a aplicação de sanções administrativas, civis ou penais definidas em
+legislação específica.
+[[PARAGRAPH: §2]]
+§ 2º O disposto neste artigo não substitui a aplicação de sanções administrativas, civis ou penais definidas na
+Lei nº 8.078, de 11 de setembro de 1990, e em legislação específica. (Redação dada pela Lei nº 13.853, de
+2019) Vigência
+[[PARAGRAPH: §3]]
+§ 3º O disposto nos incisos I, IV, V, VI, VII, VIII e IX do caput deste artigo poderá ser aplicado às entidades e aos
+órgãos públicos, sem prejuízo do disposto na Lei nº 8.112, de 11 de dezembro de 1990 (Estatuto do Servidor Público
+Federal) , na Lei nº 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa) , e na Lei nº 12.527, de 18 de
+novembro de 2011 (Lei de Acesso à Informação) .
+[[PARAGRAPH: §3]]
+§ 3º O disposto nos incisos I, IV, V, VI, X, XI e XII do caput deste artigo poderá ser aplicado às entidades e aos
+órgãos públicos, sem prejuízo do disposto na Lei nº 8.112, de 11 de dezembro de 1990, na Lei nº 8.429, de 2 de junho
+de 1992, e na Lei nº 12.527, de 18 de novembro de 2011. (Redação dada pela Lei nº 13.853, de 2019)
+[[PARAGRAPH: §4]]
+§ 4º No cálculo do valor da multa de que trata o inciso II do caput deste artigo, a autoridade nacional poderá
+considerar o faturamento total da empresa ou grupo de empresas, quando não dispuser do valor do faturamento no
+ramo de atividade empresarial em que ocorreu a infração, definido pela autoridade nacional, ou quando o valor for
+apresentado de forma incompleta ou não for demonstrado de forma inequívoca e idônea.
+[[PARAGRAPH: §5]]
+§ 5º O produto da arrecadação das multas aplicadas pela ANPD, inscritas ou não em dívida ativa, será
+destinado ao Fundo de Defesa de Direitos Difusos de que tratam o art. 13 da Lei nº 7.347, de 24 de julho de 1985, e a
+Lei nº 9.008, de 21 de março de 1995. (Incluído pela Lei nº 13.853, de 2019)
+[[PARAGRAPH: §6]]
+§ 6º (VETADO). (Incluído pela Lei nº 13.853, de 2019) (Promulgação partes vetadas)
+[[PARAGRAPH: §6]]
+§ 6º As sanções previstas nos incisos X, XI e XII do caput deste artigo serão aplicadas: (Incluído pela Lei nº
+13.853, de 2019)
+I - somente após já ter sido imposta ao menos 1 (uma) das sanções de que tratam os incisos II, III, IV, V e VI do
+caput deste artigo para o mesmo caso concreto; e (Incluído pela Lei nº 13.853, de 2019)
+II - em caso de controladores submetidos a outros órgãos e entidades com competências sancionatórias,
+ouvidos esses órgãos. (Incluído pela Lei nº 13.853, de 2019)
+[[PARAGRAPH: §7]]
+§ 7º Os vazamentos individuais ou os acessos não autorizados de que trata o caput do art. 46 desta Lei poderão
+ser objeto de conciliação direta entre controlador e titular e, caso não haja acordo, o controlador estará sujeito à
+aplicação das penalidades de que trata este artigo. (Incluído pela Lei nº 13.853, de 2019) Vigência
+
+[[ARTICLE: 53]]
+Art. 53. A autoridade nacional definirá, por meio de regulamento próprio sobre sanções administrativas a infrações
+a esta Lei, que deverá ser objeto de consulta pública, as metodologias que orientarão o cálculo do valor-base das
+sanções de multa. (Vigência)
+[[PARAGRAPH: §1]]
+§ 1º As metodologias a que se refere o caput deste artigo devem ser previamente publicadas, para ciência dos
+agentes de tratamento, e devem apresentar objetivamente as formas e dosimetrias para o cálculo do valor-base das
+sanções de multa, que deverão conter fundamentação detalhada de todos os seus elementos, demonstrando a
+observância dos critérios previstos nesta Lei.
+[[PARAGRAPH: §2]]
+§ 2º O regulamento de sanções e metodologias correspondentes deve estabelecer as circunstâncias e as
+condições para a adoção de multa simples ou diária.
+
+[[ARTICLE: 54]]
+Art. 54. O valor da sanção de multa diária aplicável às infrações a esta Lei deve observar a gravidade da falta e a
+extensão do dano ou prejuízo causado e ser fundamentado pela autoridade nacional.
+Parágrafo único. A intimação da sanção de multa diária deverá conter, no mínimo, a descrição da obrigação
+imposta, o prazo razoável e estipulado pelo órgão para o seu cumprimento e o valor da multa diária a ser aplicada pelo
+seu descumprimento. (Vigência)

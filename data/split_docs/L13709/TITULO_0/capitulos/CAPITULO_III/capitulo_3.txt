@@ -1,0 +1,109 @@
+DOS DIREITOS DO TITULAR
+
+[[ARTICLE: 17]]
+Art. 17. Toda pessoa natural tem assegurada a titularidade de seus dados pessoais e garantidos os direitos
+fundamentais de liberdade, de intimidade e de privacidade, nos termos desta Lei.
+
+[[ARTICLE: 18]]
+Art. 18. O titular dos dados pessoais tem direito a obter do controlador, em relação aos dados do titular por ele
+tratados, a qualquer momento e mediante requisição:
+I - confirmação da existência de tratamento;
+II - acesso aos dados;
+III - correção de dados incompletos, inexatos ou desatualizados;
+IV - anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade
+com o disposto nesta Lei;
+V - portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa e observados
+os segredos comercial e industrial, de acordo com a regulamentação do órgão controlador;
+V - portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo
+com a regulamentação da autoridade nacional, observados os segredos comercial e industrial; (Redação dada pela
+Lei nº 13.853, de 2019) Vigência
+VI - eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas no art.
+16 desta Lei;
+VII - informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de
+dados;
+VIII - informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa;
+IX - revogação do consentimento, nos termos do § 5º do art. 8º desta Lei.
+[[PARAGRAPH: §1]]
+§ 1º O titular dos dados pessoais tem o direito de peticionar em relação aos seus dados contra o controlador
+perante a autoridade nacional.
+[[PARAGRAPH: §2]]
+§ 2º O titular pode opor-se a tratamento realizado com fundamento em uma das hipóteses de dispensa de
+consentimento, em caso de descumprimento ao disposto nesta Lei.
+[[PARAGRAPH: §3]]
+§ 3º Os direitos previstos neste artigo serão exercidos mediante requerimento expresso do titular ou de
+representante legalmente constituído, a agente de tratamento.
+[[PARAGRAPH: §4]]
+§ 4º Em caso de impossibilidade de adoção imediata da providência de que trata o § 3º deste artigo, o controlador
+enviará ao titular resposta em que poderá:
+I - comunicar que não é agente de tratamento dos dados e indicar, sempre que possível, o agente; ou
+II - indicar as razões de fato ou de direito que impedem a adoção imediata da providência.
+[[PARAGRAPH: §5]]
+§ 5º O requerimento referido no § 3º deste artigo será atendido sem custos para o titular, nos prazos e nos termos
+previstos em regulamento.
+[[PARAGRAPH: §6]]
+§ 6º O responsável deverá informar, de maneira imediata, aos agentes de tratamento com os quais tenha
+realizado uso compartilhado de dados a correção, a eliminação, a anonimização ou o bloqueio dos dados, para que
+repitam idêntico procedimento, exceto nos casos em que esta comunicação seja comprovadamente impossível ou
+implique esforço desproporcional. (Redação dada pela Lei nº 13.853, de 2019) Vigência
+[[PARAGRAPH: §7]]
+§ 7º A portabilidade dos dados pessoais a que se refere o inciso V do caput deste artigo não inclui dados que já
+tenham sido anonimizados pelo controlador.
+[[PARAGRAPH: §8]]
+§ 8º O direito a que se refere o § 1º deste artigo também poderá ser exercido perante os organismos de defesa do
+consumidor.
+
+[[ARTICLE: 19]]
+Art. 19. A confirmação de existência ou o acesso a dados pessoais serão providenciados, mediante requisição do
+titular:
+I - em formato simplificado, imediatamente; ou
+II - por meio de declaração clara e completa, que indique a origem dos dados, a inexistência de registro, os critérios
+utilizados e a finalidade do tratamento, observados os segredos comercial e industrial, fornecida no prazo de até 15
+(quinze) dias, contado da data do requerimento do titular.
+[[PARAGRAPH: §1]]
+§ 1º Os dados pessoais serão armazenados em formato que favoreça o exercício do direito de acesso.
+[[PARAGRAPH: §2]]
+§ 2º As informações e os dados poderão ser fornecidos, a critério do titular:
+I - por meio eletrônico, seguro e idôneo para esse fim; ou
+II - sob forma impressa.
+[[PARAGRAPH: §3]]
+§ 3º Quando o tratamento tiver origem no consentimento do titular ou em contrato, o titular poderá solicitar cópia
+eletrônica integral de seus dados pessoais, observados os segredos comercial e industrial, nos termos de
+regulamentação da autoridade nacional, em formato que permita a sua utilização subsequente, inclusive em outras
+operações de tratamento.
+[[PARAGRAPH: §4]]
+§ 4º A autoridade nacional poderá dispor de forma diferenciada acerca dos prazos previstos nos incisos I e II do
+caput deste artigo para os setores específicos.
+
+[[ARTICLE: 20]]
+Art. 20. O titular dos dados tem direito a solicitar revisão, por pessoa natural, de decisões tomadas unicamente com
+base em tratamento automatizado de dados pessoais que afetem seus interesses, inclusive de decisões destinadas a
+definir o seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade.
+
+[[ARTICLE: 20]]
+Art. 20. O titular dos dados tem direito a solicitar a revisão de decisões tomadas unicamente com base em
+tratamento automatizado de dados pessoais que afetem seus interesses, incluídas as decisões destinadas a definir o seu
+perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade. (Redação dada pela
+Medida Provisória nº 869, de 2018)
+
+[[ARTICLE: 20]]
+Art. 20. O titular dos dados tem direito a solicitar a revisão de decisões tomadas unicamente com base em
+tratamento automatizado de dados pessoais que afetem seus interesses, incluídas as decisões destinadas a definir o
+seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade. (Redação dada pela
+Lei nº 13.853, de 2019) Vigência
+[[PARAGRAPH: §1]]
+§ 1º O controlador deverá fornecer, sempre que solicitadas, informações claras e adequadas a respeito dos
+critérios e dos procedimentos utilizados para a decisão automatizada, observados os segredos comercial e industrial.
+[[PARAGRAPH: §2]]
+§ 2º Em caso de não oferecimento de informações de que trata o § 1º deste artigo baseado na observância de
+segredo comercial e industrial, a autoridade nacional poderá realizar auditoria para verificação de aspectos
+discriminatórios em tratamento automatizado de dados pessoais.
+[[PARAGRAPH: §3]]
+§ 3º (VETADO). (Incluído pela Lei nº 13.853, de 2019) Vigência
+
+[[ARTICLE: 21]]
+Art. 21. Os dados pessoais referentes ao exercício regular de direitos pelo titular não podem ser utilizados em seu
+prejuízo.
+
+[[ARTICLE: 22]]
+Art. 22. A defesa dos interesses e dos direitos dos titulares de dados poderá ser exercida em juízo, individual ou
+coletivamente, na forma do disposto na legislação pertinente, acerca dos instrumentos de tutela individual e coletiva.

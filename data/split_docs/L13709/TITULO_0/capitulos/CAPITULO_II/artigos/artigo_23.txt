@@ -1,0 +1,31 @@
+art. 23 desta Lei.
+[[PARAGRAPH: §3]]
+§ 3º A comunicação ou o uso compartilhado de dados pessoais sensíveis entre controladores com objetivo de obter
+vantagem econômica poderá ser objeto de vedação ou de regulamentação por parte da autoridade nacional, ouvidos os
+órgãos setoriais do Poder Público, no âmbito de suas competências.
+[[PARAGRAPH: §4]]
+§ 4º É vedada a comunicação ou o uso compartilhado entre controladores de dados pessoais sensíveis referentes
+à saúde com objetivo de obter vantagem econômica, exceto nos casos de portabilidade de dados quando consentido
+pelo titular.
+[[PARAGRAPH: §4]]
+§ 4º É vedada a comunicação ou o uso compartilhado entre controladores de dados pessoais sensíveis referentes
+à saúde com objetivo de obter vantagem econômica, exceto nas hipóteses de: (Redação dada pela Medida
+Provisória nº 869, de 2018)
+I - portabilidade de dados quando consentido pelo titular; ou (Incluído pela Medida Provisória nº 869, de
+2018)
+II - necessidade de comunicação para a adequada prestação de serviços de saúde suplementar. (Incluído
+pela Medida Provisória nº 869, de 2018)
+[[PARAGRAPH: §4]]
+§ 4º É vedada a comunicação ou o uso compartilhado entre controladores de dados pessoais sensíveis
+referentes à saúde com objetivo de obter vantagem econômica, exceto nas hipóteses relativas a prestação de
+serviços de saúde, de assistência farmacêutica e de assistência à saúde, desde que observado o § 5º deste artigo,
+incluídos os serviços auxiliares de diagnose e terapia, em benefício dos interesses dos titulares de dados, e para
+permitir: (Redação dada pela Lei nº 13.853, de 2019) Vigência
+I - a portabilidade de dados quando solicitada pelo titular; ou (Incluído pela Lei nº 13.853, de 2019)
+Vigência
+II - as transações financeiras e administrativas resultantes do uso e da prestação dos serviços de que trata este
+parágrafo. (Incluído pela Lei nº 13.853, de 2019) Vigência
+[[PARAGRAPH: §5]]
+§ 5º É vedado às operadoras de planos privados de assistência à saúde o tratamento de dados de saúde para a
+prática de seleção de riscos na contratação de qualquer modalidade, assim como na contratação e exclusão de
+beneficiários. (Incluído pela Lei nº 13.853, de 2019) Vigência

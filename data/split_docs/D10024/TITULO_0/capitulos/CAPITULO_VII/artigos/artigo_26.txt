@@ -1,0 +1,32 @@
+Art. 26. Após a divulgação do edital no sítio eletrônico, os licitantes encaminharão, exclusivamente por meio do
+sistema, concomitantemente com os documentos de habilitação exigidos no edital, proposta com a descrição do
+objeto ofertado e o preço, até a data e o horário estabelecidos para abertura da sessão pública.
+[[PARAGRAPH: §1]]
+§ 1º A etapa de que trata o caput será encerrada com a abertura da sessão pública.
+[[PARAGRAPH: §2]]
+§ 2º Os licitantes poderão deixar de apresentar os documentos de habilitação que constem do Sicaf e de
+sistemas semelhantes mantidos pelos Estados, pelo Distrito Federal ou pelos Municípios, quando a licitação for
+realizada por esses entes federativos, assegurado aos demais licitantes o direito de acesso aos dados constantes dos
+sistemas.
+[[PARAGRAPH: §3]]
+§ 3º O envio da proposta, acompanhada dos documentos de habilitação exigidos no edital, nos termos do
+disposto no caput, ocorrerá por meio de chave de acesso e senha.
+[[PARAGRAPH: §4]]
+§ 4º O licitante declarará, em campo próprio do sistema, o cumprimento dos requisitos para a habilitação e a
+conformidade de sua proposta com as exigências do edital.
+[[PARAGRAPH: §5]]
+§ 5º A falsidade da declaração de que trata o § 4º sujeitará o licitante às sanções previstas neste Decreto.
+[[PARAGRAPH: §6]]
+§ 6º Os licitantes poderão retirar ou substituir a proposta e os documentos de habilitação anteriormente
+inseridos no sistema, até a abertura da sessão pública.
+[[PARAGRAPH: §7]]
+§ 7º Na etapa de apresentação da proposta e dos documentos de habilitação pelo licitante, observado o
+disposto no caput, não haverá ordem de classificação das propostas, o que ocorrerá somente após os procedimentos
+de que trata o Capítulo IX.
+[[PARAGRAPH: §8]]
+§ 8º Os documentos que compõem a proposta e a habilitação do licitante melhor classificado somente serão
+disponibilizados para avaliação do pregoeiro e para acesso público após o encerramento do envio de lances.
+[[PARAGRAPH: §9]]
+§ 9º Os documentos complementares à proposta e à habilitação, quando necessários à confirmação daqueles
+exigidos no edital e já apresentados, serão encaminhados pelo licitante melhor classificado após o encerramento do
+envio de lances, observado o prazo de que trata o § 2º do art. 38.

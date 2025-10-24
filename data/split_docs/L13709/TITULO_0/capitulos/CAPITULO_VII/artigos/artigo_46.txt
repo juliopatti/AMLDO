@@ -1,0 +1,7 @@
+Art. 46. Os agentes de tratamento devem adotar medidas de segurança, técnicas e administrativas aptas a
+proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda,
+alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito.
+[[PARAGRAPH: §1]]
+§ 1º A autoridade nacional poderá dispor sobre padrões técnicos mínimos para tornar aplicável o disposto no caput
+deste artigo, considerados a natureza das informações tratadas, as características específicas do tratamento e o estado
+atual da tecnologia, especialmente no caso de dados pessoais sensíveis, assim como os princípios previstos no caput do

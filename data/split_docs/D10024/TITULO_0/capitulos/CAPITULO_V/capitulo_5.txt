@@ -1,0 +1,99 @@
+DO PLANEJAMENTO DA CONTRATAÇÃO
+Orientações gerais
+
+[[ARTICLE: 14]]
+Art. 14. No planejamento do pregão, na forma eletrônica, será observado o seguinte:
+I - elaboração do estudo técnico preliminar e do termo de referência;
+II - aprovação do estudo técnico preliminar e do termo de referência pela autoridade competente ou por quem
+esta delegar;
+III - elaboração do edital, que estabelecerá os critérios de julgamento e a aceitação das propostas, o modo de
+disputa e, quando necessário, o intervalo mínimo de diferença de valores ou de percentuais entre os lances, que
+incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta;
+IV - definição das exigências de habilitação, das sanções aplicáveis, dos prazos e das condições que, pelas
+suas particularidades, sejam consideradas relevantes para a celebração e a execução do contrato e o atendimento
+das necessidades da administração pública; e
+V - designação do pregoeiro e de sua equipe de apoio.
+Valor estimado ou valor máximo aceitável
+
+[[ARTICLE: 15]]
+Art. 15. O valor estimado ou o valor máximo aceitável para a contratação, se não constar expressamente do
+edital, possuirá caráter sigiloso e será disponibilizado exclusiva e permanentemente aos órgãos de controle externo e
+interno.
+[[PARAGRAPH: §1]]
+§ 1º O caráter sigiloso do valor estimado ou do valor máximo aceitável para a contratação será fundamentado
+no § 3º do art. 7º da Lei nº 12.527, de 18 de novembro de 2011, e no art. 20 do Decreto nº 7.724, de 16 de maio de
+2012.
+[[PARAGRAPH: §2]]
+§ 2º Para fins do disposto no caput, o valor estimado ou o valor máximo aceitável para a contratação será
+tornado público apenas e imediatamente após o encerramento do envio de lances, sem prejuízo da divulgação do
+detalhamento dos quantitativos e das demais informações necessárias à elaboração das propostas.
+[[PARAGRAPH: §3]]
+§ 3º Nas hipóteses em que for adotado o critério de julgamento pelo maior desconto, o valor estimado, o valor
+máximo aceitável ou o valor de referência para aplicação do desconto constará obrigatoriamente do instrumento
+convocatório.
+Designações do pregoeiro e da equipe de apoio
+
+[[ARTICLE: 16]]
+Art. 16. Caberá à autoridade máxima do órgão ou da entidade, ou a quem possuir a competência, designar
+agentes públicos para o desempenho das funções deste Decreto, observados os seguintes requisitos:
+I - o pregoeiro e os membros da equipe de apoio serão servidores do órgão ou da entidade promotora da
+licitação; e
+II - os membros da equipe de apoio serão, em sua maioria, servidores ocupantes de cargo efetivo,
+preferencialmente pertencentes aos quadros permanentes do órgão ou da entidade promotora da licitação.
+[[PARAGRAPH: §1]]
+§ 1º No âmbito do Ministério da Defesa, as funções de pregoeiro e de membro da equipe de apoio poderão ser
+desempenhadas por militares.
+[[PARAGRAPH: §2]]
+§ 2º A critério da autoridade competente, o pregoeiro e os membros da equipe de apoio poderão ser
+designados para uma licitação específica, para um período determinado, admitidas reconduções, ou por período
+indeterminado, permitida a revogação da designação a qualquer tempo.
+[[PARAGRAPH: §3]]
+§ 3º Os órgãos e as entidades de que trata o § 1º do art. 1º estabelecerão planos de capacitação que
+contenham iniciativas de treinamento para a formação e a atualização técnica de pregoeiros, membros da equipe de
+apoio e demais agentes encarregados da instrução do processo licitatório, a serem implementadas com base em
+gestão por competências.
+Do pregoeiro
+
+[[ARTICLE: 17]]
+Art. 17. Caberá ao pregoeiro, em especial:
+I - conduzir a sessão pública;
+II - receber, examinar e decidir as impugnações e os pedidos de esclarecimentos ao edital e aos anexos, além
+de poder requisitar subsídios formais aos responsáveis pela elaboração desses documentos;
+III - verificar a conformidade da proposta em relação aos requisitos estabelecidos no edital;
+IV - coordenar a sessão pública e o envio de lances;
+V - verificar e julgar as condições de habilitação;
+VI - sanear erros ou falhas que não alterem a substância das propostas, dos documentos de habilitação e sua
+validade jurídica;
+VII - receber, examinar e decidir os recursos e encaminhá-los à autoridade competente quando mantiver sua
+decisão;
+VIII - indicar o vencedor do certame;
+IX - adjudicar o objeto, quando não houver recurso;
+X - conduzir os trabalhos da equipe de apoio; e
+XI - encaminhar o processo devidamente instruído à autoridade competente e propor a sua homologação.
+Parágrafo único. O pregoeiro poderá solicitar manifestação técnica da assessoria jurídica ou de outros setores
+do órgão ou da entidade, a fim de subsidiar sua decisão.
+Da equipe de apoio
+
+[[ARTICLE: 18]]
+Art. 18. Caberá à equipe de apoio auxiliar o pregoeiro nas etapas do processo licitatório.
+Do licitante
+
+[[ARTICLE: 19]]
+Art. 19. Caberá ao licitante interessado em participar do pregão, na forma eletrônica:
+I - credenciar-se previamente no Sicaf ou, na hipótese de que trata o §2º do art. 5º, no sistema eletrônico
+utilizado no certame;
+II - remeter, no prazo estabelecido, exclusivamente via sistema, os documentos de habilitação e a proposta e,
+quando necessário, os documentos complementares;
+III - responsabilizar-se formalmente pelas transações efetuadas em seu nome, assumir como firmes e
+verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou por seu representante,
+excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da licitação por eventuais
+danos decorrentes de uso indevido da senha, ainda que por terceiros;
+IV - acompanhar as operações no sistema eletrônico durante o processo licitatório e responsabilizar-se pelo
+ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas pelo sistema ou de sua
+desconexão;
+V - comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer o sigilo
+ou a inviabilidade do uso da senha, para imediato bloqueio de acesso;
+VI - utilizar a chave de identificação e a senha de acesso para participar do pregão na forma eletrônica; e
+VII - solicitar o cancelamento da chave de identificação ou da senha de acesso por interesse próprio.
+Parágrafo único. O fornecedor descredenciado no Sicaf terá sua chave de identificação e senha suspensas
+automaticamente.

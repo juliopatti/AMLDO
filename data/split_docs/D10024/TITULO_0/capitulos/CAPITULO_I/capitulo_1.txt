@@ -1,0 +1,103 @@
+DISPOSIÇÕES PRELIMINARES
+Objeto e âmbito de aplicação
+
+[[ARTICLE: 1]]
+Art. 1º Este Decreto regulamenta a licitação, na modalidade de pregão, na forma eletrônica, para a aquisição
+de bens e a contratação de serviços comuns, incluídos os serviços comuns de engenharia, e dispõe sobre o uso da
+dispensa eletrônica, no âmbito da administração pública federal.
+[[PARAGRAPH: §1]]
+§ 1º A utilização da modalidade de pregão, na forma eletrônica, pelos órgãos da administração pública federal
+direta, pelas autarquias, pelas fundações e pelos fundos especiais é obrigatória.
+[[PARAGRAPH: §2]]
+§ 2º As empresas públicas, as sociedades de economia mista e suas subsidiárias, nos termos do regulamento
+interno de que trata o art. 40 da Lei nº 13.303, de 30 de junho de 2016, poderão adotar, no que couber, as disposições
+deste Decreto, inclusive o disposto no Capítulo XVII, observados os limites de que trata o art. 29 da referida Lei.
+[[PARAGRAPH: §3]]
+§ 3º Para a aquisição de bens e a contratação de serviços comuns pelos entes federativos, com a utilização de
+recursos da União decorrentes de transferências voluntárias, tais como convênios e contratos de repasse, a utilização
+da modalidade de pregão, na forma eletrônica, ou da dispensa eletrônica será obrigatória, exceto nos casos em que a
+lei ou a regulamentação específica que dispuser sobre a modalidade de transferência discipline de forma diversa as
+contratações com os recursos do repasse.
+[[PARAGRAPH: §4]]
+§ 4º Será admitida, excepcionalmente, mediante prévia justificativa da autoridade competente, a utilização da
+forma de pregão presencial nas licitações de que trata o caput ou a não adoção do sistema de dispensa eletrônica,
+desde que fique comprovada a inviabilidade técnica ou a desvantagem para a administração na realização da forma
+eletrônica.
+Princípios
+
+[[ARTICLE: 2]]
+Art. 2º O pregão, na forma eletrônica, é condicionado aos princípios da legalidade, da impessoalidade, da
+moralidade, da igualdade, da publicidade, da eficiência, da probidade administrativa, do desenvolvimento sustentável,
+da vinculação ao instrumento convocatório, do julgamento objetivo, da razoabilidade, da competitividade, da
+proporcionalidade e aos que lhes são correlatos.
+[[PARAGRAPH: §1]]
+§ 1º O princípio do desenvolvimento sustentável será observado nas etapas do processo de contratação, em
+suas dimensões econômica, social, ambiental e cultural, no mínimo, com base nos planos de gestão de logística
+sustentável dos órgãos e das entidades.
+[[PARAGRAPH: §2]]
+§ 2º As normas disciplinadoras da licitação serão interpretadas em favor da ampliação da disputa entre os
+interessados, resguardados o interesse da administração, o princípio da isonomia, a finalidade e a segurança da
+contratação.
+Definições
+
+[[ARTICLE: 3]]
+Art. 3º Para fins do disposto neste Decreto, considera-se:
+I - aviso do edital - documento que contém:
+a) a definição precisa, suficiente e clara do objeto;
+b) a indicação dos locais, das datas e dos horários em que poderá ser lido ou obtido o edital; e
+c) o endereço eletrônico no qual ocorrerá a sessão pública com a data e o horário de sua realização;
+II - bens e serviços comuns - bens cujos padrões de desempenho e qualidade possam ser objetivamente
+definidos pelo edital, por meio de especificações reconhecidas e usuais do mercado;
+III - bens e serviços especiais - bens que, por sua alta heterogeneidade ou complexidade técnica, não podem
+ser considerados bens e serviços comuns, nos termos do inciso II;
+IV - estudo técnico preliminar - documento constitutivo da primeira etapa do planejamento de uma contratação,
+que caracteriza o interesse público envolvido e a melhor solução ao problema a ser resolvido e que, na hipótese de
+conclusão pela viabilidade da contratação, fundamenta o termo de referência;
+V - lances intermediários - lances iguais ou superiores ao menor já ofertado, porém inferiores ao último lance
+dado pelo próprio licitante;
+VI - obra - construção, reforma, fabricação, recuperação ou ampliação de bem imóvel, realizada por execução
+direta ou indireta;
+VII - serviço - atividade ou conjunto de atividades destinadas a obter determinada utilidade, intelectual ou
+material, de interesse da administração pública;
+VIII - serviço comum de engenharia - atividade ou conjunto de atividades que necessitam da participação e do
+acompanhamento de profissional engenheiro habilitado, nos termos do disposto na Lei nº 5.194, de 24 de dezembro
+de 1966, e cujos padrões de desempenho e qualidade possam ser objetivamente definidos pela administração
+pública, mediante especificações usuais de mercado;
+IX - Sistema de Cadastramento Unificado de Fornecedores - Sicaf - ferramenta informatizada, integrante da
+plataforma do Sistema Integrado de Administração de Serviços Gerais - Siasg, disponibilizada pelo Ministério da
+Economia, para cadastramento dos órgãos e das entidades da administração pública, das empresas públicas e dos
+participantes de procedimentos de licitação, dispensa ou inexigibilidade promovidos pelos órgãos e pelas entidades
+integrantes do Sistema de Serviços Gerais - Sisg;
+X - sistema de dispensa eletrônica - ferramenta informatizada, integrante da plataforma do Siasg,
+disponibilizada pelo Ministério da Economia, para a realização dos processos de contratação direta de bens e serviços
+comuns, incluídos os serviços comuns de engenharia; e
+XI - termo de referência - documento elaborado com base nos estudos técnicos preliminares, que deverá
+conter:
+a) os elementos que embasam a avaliação do custo pela administração pública, a partir dos padrões de
+desempenho e qualidade estabelecidos e das condições de entrega do objeto, com as seguintes informações:
+1. a definição do objeto contratual e dos métodos para a sua execução, vedadas especificações excessivas,
+irrelevantes ou desnecessárias, que limitem ou frustrem a competição ou a realização do certame;
+2. o valor estimado do objeto da licitação demonstrado em planilhas, de acordo com o preço de mercado; e
+3. o cronograma físico-financeiro, se necessário;
+b) o critério de aceitação do objeto;
+c) os deveres do contratado e do contratante;
+d) a relação dos documentos essenciais à verificação da qualificação técnica e econômico-financeira, se
+necessária;
+e) os procedimentos de fiscalização e gerenciamento do contrato ou da ata de registro de preços;
+f) o prazo para execução do contrato; e
+g) as sanções previstas de forma objetiva, suficiente e clara.
+[[PARAGRAPH: §1]]
+§ 1º A classificação de bens e serviços como comuns depende de exame predominantemente fático e de
+natureza técnica.
+[[PARAGRAPH: §2]]
+§ 2º Os bens e serviços que envolverem o desenvolvimento de soluções específicas de natureza intelectual,
+científica e técnica, caso possam ser definidos nos termos do disposto no inciso II do caput, serão licitados por
+pregão, na forma eletrônica.
+Vedações
+
+[[ARTICLE: 4]]
+Art. 4º O pregão, na forma eletrônica, não se aplica a:
+I - contratações de obras;
+II - locações imobiliárias e alienações; e
+III - bens e serviços especiais, incluídos os serviços de engenharia enquadrados no disposto no inciso III do
+caput do art. 3º.

@@ -1,0 +1,76 @@
+DO PORTAL NACIONAL DE CONTRATAÇÕES PÚBLICAS (PNCP)
+
+[[ARTICLE: 174]]
+Art. 174. É criado o Portal Nacional de Contratações Públicas (PNCP), sítio eletrônico oficial destinado à:
+I - divulgação centralizada e obrigatória dos atos exigidos por esta Lei;
+II - realização facultativa das contratações pelos órgãos e entidades dos Poderes Executivo, Legislativo e
+Judiciário de todos os entes federativos.
+[[PARAGRAPH: §1]]
+§ 1º O PNCP será gerido pelo Comitê Gestor da Rede Nacional de Contratações Públicas, a ser presidido por
+representante indicado pelo Presidente da República e composto de:
+I - 3 (três) representantes da União indicados pelo Presidente da República;
+II - 2 (dois) representantes dos Estados e do Distrito Federal indicados pelo Conselho Nacional de Secretários
+de Estado da Administração;
+III - 2 (dois) representantes dos Municípios indicados pela Confederação Nacional de Municípios.
+[[PARAGRAPH: §2]]
+§ 2º O PNCP conterá, entre outras, as seguintes informações acerca das contratações:
+I - planos de contratação anuais;
+II - catálogos eletrônicos de padronização;
+III - editais de credenciamento e de pré-qualificação, avisos de contratação direta e editais de licitação e
+respectivos anexos;
+IV - atas de registro de preços;
+V - contratos e termos aditivos;
+VI - notas fiscais eletrônicas, quando for o caso.
+[[PARAGRAPH: §3]]
+§ 3º O PNCP deverá, entre outras funcionalidades, oferecer:
+I - sistema de registro cadastral unificado;
+II - painel para consulta de preços, banco de preços em saúde e acesso à base nacional de notas fiscais
+eletrônicas;
+III - sistema de planejamento e gerenciamento de contratações, incluído o cadastro de atesto de cumprimento
+de obrigações previsto no § 4º do art. 88 desta Lei;
+IV - sistema eletrônico para a realização de sessões públicas;
+V - acesso ao Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e ao Cadastro Nacional de
+Empresas Punidas (Cnep);
+VI - sistema de gestão compartilhada com a sociedade de informações referentes à execução do contrato, que
+possibilite:
+a) envio, registro, armazenamento e divulgação de mensagens de texto ou imagens pelo interessado
+previamente identificado;
+b) acesso ao sistema informatizado de acompanhamento de obras a que se refere o inciso III do caput do art.
+19 desta Lei;
+c) comunicação entre a população e representantes da Administração e do contratado designados para prestar
+as informações e esclarecimentos pertinentes, na forma de regulamento;
+d) divulgação, na forma de regulamento, de relatório final com informações sobre a consecução dos objetivos
+que tenham justificado a contratação e eventuais condutas a serem adotadas para o aprimoramento das atividades da
+Administração.
+[[PARAGRAPH: §4]]
+§ 4º O PNCP adotará o formato de dados abertos e observará as exigências previstas na Lei nº 12.527, de 18
+de novembro de 2011.
+[[PARAGRAPH: §5]]
+§ 5º (VETADO).
+
+[[ARTICLE: 175]]
+Art. 175. Sem prejuízo do disposto no art. 174 desta Lei, os entes federativos poderão instituir sítio eletrônico
+oficial para divulgação complementar e realização das respectivas contratações.
+[[PARAGRAPH: §1]]
+§ 1º Desde que mantida a integração com o PNCP, as contratações poderão ser realizadas por meio de sistema
+eletrônico fornecido por pessoa jurídica de direito privado, na forma de regulamento.
+[[PARAGRAPH: §2]]
+§ 2º (VETADO).
+[[PARAGRAPH: §2]]
+§ 2º Até 31 de dezembro de 2023, os Municípios deverão realizar divulgação complementar de suas
+contratações mediante publicação de extrato de edital de licitação em jornal diário de grande circulação local.
+(Promulgação partes vetadas)
+
+[[ARTICLE: 176]]
+Art. 176. Os Municípios com até 20.000 (vinte mil) habitantes terão o prazo de 6 (seis) anos, contado da data de
+publicação desta Lei, para cumprimento:
+I - dos requisitos estabelecidos no art. 7º e no caput do art. 8º desta Lei;
+II - da obrigatoriedade de realização da licitação sob a forma eletrônica a que se refere o § 2º do art. 17 desta
+Lei;
+III - das regras relativas à divulgação em sítio eletrônico oficial.
+Parágrafo único. Enquanto não adotarem o PNCP, os Municípios a que se refere o caput deste artigo deverão:
+I - publicar, em diário oficial, as informações que esta Lei exige que sejam divulgadas em sítio eletrônico oficial,
+admitida a publicação de extrato;
+II - disponibilizar a versão física dos documentos em suas repartições, vedada a cobrança de qualquer valor,
+salvo o referente ao fornecimento de edital ou de cópia de documento, que não será superior ao custo de sua
+reprodução gráfica.

@@ -1,0 +1,20 @@
+DO SISTEMA DE DISPENSA ELETRÔNICA
+Aplicação
+
+[[ARTICLE: 51]]
+Art. 51. As unidades gestoras integrantes do Sisg adotarão o sistema de dispensa eletrônica, nas seguintes
+hipóteses:
+I - contratação de serviços comuns de engenharia, nos termos do disposto no inciso I do caput do art. 24 da Lei
+nº 8.666, de 1993;
+II - aquisição de bens e contratação de serviços comuns, nos termos do disposto no inciso II do caput do art. 24
+da Lei nº 8.666, de 1993; e
+III - aquisição de bens e contratação de serviços comuns, incluídos os serviços comuns de engenharia, nos
+termos do disposto no inciso III e seguintes do caput do art. 24 da Lei nº 8.666, de 1993, quando cabível.
+[[PARAGRAPH: §1]]
+§ 1º Ato do Secretário de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do
+Ministério da Economia regulamentará o funcionamento do sistema de dispensa eletrônica.
+[[PARAGRAPH: §2]]
+§ 2º A obrigatoriedade da utilização do sistema de dispensa eletrônica ocorrerá a partir da data de publicação
+do ato de que trata o § 1º.
+[[PARAGRAPH: §3]]
+§ 3º Fica vedada a utilização do sistema de dispensa eletrônica nas hipóteses de que trata o art. 4º.

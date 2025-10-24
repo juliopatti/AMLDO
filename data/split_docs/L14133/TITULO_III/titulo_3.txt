@@ -1,0 +1,954 @@
+DOS CONTRATOS ADMINISTRATIVOS
+
+[[CHAPTER: CAPÍTULO I]]
+DA FORMALIZAÇÃO DOS CONTRATOS
+
+[[ARTICLE: 89]]
+Art. 89. Os contratos de que trata esta Lei regular-se-ão pelas suas cláusulas e pelos preceitos de direito
+público, e a eles serão aplicados, supletivamente, os princípios da teoria geral dos contratos e as disposições de
+direito privado.
+[[PARAGRAPH: §1]]
+§ 1º Todo contrato deverá mencionar os nomes das partes e os de seus representantes, a finalidade, o ato que
+autorizou sua lavratura, o número do processo da licitação ou da contratação direta e a sujeição dos contratantes às
+normas desta Lei e às cláusulas contratuais.
+[[PARAGRAPH: §2]]
+§ 2º Os contratos deverão estabelecer com clareza e precisão as condições para sua execução, expressas em
+cláusulas que definam os direitos, as obrigações e as responsabilidades das partes, em conformidade com os termos
+do edital de licitação e os da proposta vencedora ou com os termos do ato que autorizou a contratação direta e os da
+respectiva proposta.
+
+[[ARTICLE: 90]]
+Art. 90. A Administração convocará regularmente o licitante vencedor para assinar o termo de contrato ou para
+aceitar ou retirar o instrumento equivalente, dentro do prazo e nas condições estabelecidas no edital de licitação, sob
+pena de decair o direito à contratação, sem prejuízo das sanções previstas nesta Lei.
+[[PARAGRAPH: §1]]
+§ 1º O prazo de convocação poderá ser prorrogado 1 (uma) vez, por igual período, mediante solicitação da
+parte durante seu transcurso, devidamente justificada, e desde que o motivo apresentado seja aceito pela
+Administração.
+[[PARAGRAPH: §2]]
+§ 2º Será facultado à Administração, quando o convocado não assinar o termo de contrato ou não aceitar ou
+não retirar o instrumento equivalente no prazo e nas condições estabelecidas, convocar os licitantes remanescentes,
+na ordem de classificação, para a celebração do contrato nas condições propostas pelo licitante vencedor.
+[[PARAGRAPH: §3]]
+§ 3º Decorrido o prazo de validade da proposta indicado no edital sem convocação para a contratação, ficarão
+os licitantes liberados dos compromissos assumidos.
+[[PARAGRAPH: §4]]
+§ 4º Na hipótese de nenhum dos licitantes aceitar a contratação nos termos do § 2º deste artigo, a
+Administração, observados o valor estimado e sua eventual atualização nos termos do edital, poderá:
+I - convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas à obtenção de
+preço melhor, mesmo que acima do preço do adjudicatário;
+II - adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes, atendida a ordem
+classificatória, quando frustrada a negociação de melhor condição.
+[[PARAGRAPH: §5]]
+§ 5º A recusa injustificada do adjudicatário em assinar o contrato ou em aceitar ou retirar o instrumento
+equivalente no prazo estabelecido pela Administração caracterizará o descumprimento total da obrigação assumida e
+o sujeitará às penalidades legalmente estabelecidas e à imediata perda da garantia de proposta em favor do órgão ou
+entidade licitante.
+[[PARAGRAPH: §6]]
+§ 6º A regra do § 5º não se aplicará aos licitantes remanescentes convocados na forma do inciso I do § 4º deste
+artigo.
+[[PARAGRAPH: §7]]
+§ 7º Será facultada à Administração a convocação dos demais licitantes classificados para a contratação de
+remanescente de obra, de serviço ou de fornecimento em consequência de rescisão contratual, observados os
+mesmos critérios estabelecidos nos §§ 2º e 4º deste artigo.
+[[PARAGRAPH: §8]]
+§ 8º Na situação de que trata o § 7º deste artigo, é autorizado o aproveitamento, em favor da nova contratada, de
+eventual saldo a liquidar inscrito em despesas empenhadas ou em restos a pagar não processados. (Incluído pela Lei nº
+14.770, de 2023)
+[[PARAGRAPH: §9]]
+§ 9º Se frustradas as providências dos §§ 2º e 4º, o saldo de que trata o § 8º deste artigo poderá ser computado
+como efetiva disponibilidade para nova licitação, desde que identificada vantajosidade para a administração pública e
+mantido o objeto programado. (Incluído pela Lei nº 14.770, de 2023)
+
+[[ARTICLE: 91]]
+Art. 91. Os contratos e seus aditamentos terão forma escrita e serão juntados ao processo que tiver dado
+origem à contratação, divulgados e mantidos à disposição do público em sítio eletrônico oficial.
+[[PARAGRAPH: §1]]
+§ 1º Será admitida a manutenção em sigilo de contratos e de termos aditivos quando imprescindível à
+segurança da sociedade e do Estado, nos termos da legislação que regula o acesso à informação.
+[[PARAGRAPH: §2]]
+§ 2º Contratos relativos a direitos reais sobre imóveis serão formalizados por escritura pública lavrada em notas
+de tabelião, cujo teor deverá ser divulgado e mantido à disposição do público em sítio eletrônico oficial.
+[[PARAGRAPH: §3]]
+§ 3º Será admitida a forma eletrônica na celebração de contratos e de termos aditivos, atendidas as exigências
+previstas em regulamento.
+[[PARAGRAPH: §4]]
+§ 4º Antes de formalizar ou prorrogar o prazo de vigência do contrato, a Administração deverá verificar a
+regularidade fiscal do contratado, consultar o Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e o
+Cadastro Nacional de Empresas Punidas (Cnep), emitir as certidões negativas de inidoneidade, de impedimento e de
+débitos trabalhistas e juntá-las ao respectivo processo.
+
+[[ARTICLE: 92]]
+Art. 92. São necessárias em todo contrato cláusulas que estabeleçam:
+I - o objeto e seus elementos característicos;
+II - a vinculação ao edital de licitação e à proposta do licitante vencedor ou ao ato que tiver autorizado a
+contratação direta e à respectiva proposta;
+III - a legislação aplicável à execução do contrato, inclusive quanto aos casos omissos;
+IV - o regime de execução ou a forma de fornecimento;
+V - o preço e as condições de pagamento, os critérios, a data-base e a periodicidade do reajustamento de
+preços e os critérios de atualização monetária entre a data do adimplemento das obrigações e a do efetivo
+pagamento;
+VI - os critérios e a periodicidade da medição, quando for o caso, e o prazo para liquidação e para pagamento;
+VII - os prazos de início das etapas de execução, conclusão, entrega, observação e recebimento definitivo,
+quando for o caso;
+VIII - o crédito pelo qual correrá a despesa, com a indicação da classificação funcional programática e da
+categoria econômica;
+IX - a matriz de risco, quando for o caso;
+X - o prazo para resposta ao pedido de repactuação de preços, quando for o caso;
+XI - o prazo para resposta ao pedido de restabelecimento do equilíbrio econômico-financeiro, quando for o caso;
+XII - as garantias oferecidas para assegurar sua plena execução, quando exigidas, inclusive as que forem
+oferecidas pelo contratado no caso de antecipação de valores a título de pagamento;
+XIII - o prazo de garantia mínima do objeto, observados os prazos mínimos estabelecidos nesta Lei e nas
+normas técnicas aplicáveis, e as condições de manutenção e assistência técnica, quando for o caso;
+XIV - os direitos e as responsabilidades das partes, as penalidades cabíveis e os valores das multas e suas
+bases de cálculo;
+XV - as condições de importação e a data e a taxa de câmbio para conversão, quando for o caso;
+XVI - a obrigação do contratado de manter, durante toda a execução do contrato, em compatibilidade com as
+obrigações por ele assumidas, todas as condições exigidas para a habilitação na licitação, ou para a qualificação, na
+contratação direta;
+XVII - a obrigação de o contratado cumprir as exigências de reserva de cargos prevista em lei, bem como em
+outras normas específicas, para pessoa com deficiência, para reabilitado da Previdência Social e para aprendiz;
+XVIII - o modelo de gestão do contrato, observados os requisitos definidos em regulamento;
+XIX - os casos de extinção.
+[[PARAGRAPH: §1]]
+§ 1º Os contratos celebrados pela Administração Pública com pessoas físicas ou jurídicas, inclusive as
+domiciliadas no exterior, deverão conter cláusula que declare competente o foro da sede da Administração para dirimir
+qualquer questão contratual, ressalvadas as seguintes hipóteses:
+I - licitação internacional para a aquisição de bens e serviços cujo pagamento seja feito com o produto de
+financiamento concedido por organismo financeiro internacional de que o Brasil faça parte ou por agência estrangeira
+de cooperação;
+II - contratação com empresa estrangeira para a compra de equipamentos fabricados e entregues no exterior
+precedida de autorização do Chefe do Poder Executivo;
+III - aquisição de bens e serviços realizada por unidades administrativas com sede no exterior.
+[[PARAGRAPH: §2]]
+§ 2º De acordo com as peculiaridades de seu objeto e de seu regime de execução, o contrato conterá cláusula
+que preveja período antecedente à expedição da ordem de serviço para verificação de pendências, liberação de áreas
+ou adoção de outras providências cabíveis para a regularidade do início de sua execução.
+[[PARAGRAPH: §3]]
+§ 3º Independentemente do prazo de duração, o contrato deverá conter cláusula que estabeleça o índice de
+reajustamento de preço, com data-base vinculada à data do orçamento estimado, e poderá ser estabelecido mais de
+um índice específico ou setorial, em conformidade com a realidade de mercado dos respectivos insumos.
+[[PARAGRAPH: §4]]
+§ 4º Nos contratos de serviços contínuos, observado o interregno mínimo de 1 (um) ano, o critério de
+reajustamento de preços será por:
+I - reajustamento em sentido estrito, quando não houver regime de dedicação exclusiva de mão de obra ou
+predominância de mão de obra, mediante previsão de índices específicos ou setoriais;
+II - repactuação, quando houver regime de dedicação exclusiva de mão de obra ou predominância de mão de
+obra, mediante demonstração analítica da variação dos custos.
+[[PARAGRAPH: §5]]
+§ 5º Nos contratos de obras e serviços de engenharia, sempre que compatível com o regime de execução, a
+medição será mensal.
+[[PARAGRAPH: §6]]
+§ 6º Nos contratos para serviços contínuos com regime de dedicação exclusiva de mão de obra ou com
+predominância de mão de obra, o prazo para resposta ao pedido de repactuação de preços será preferencialmente de
+1 (um) mês, contado da data do fornecimento da documentação prevista no § 6º do art. 135 desta Lei.
+[[PARAGRAPH: §7]]
+§ 7º Para efeito do disposto nesta Lei, consideram-se como adimplemento da obrigação contratual a prestação
+do serviço, a realização da obra ou a entrega do bem, ou parcela destes, bem como qualquer outro evento contratual
+a cuja ocorrência esteja vinculada a emissão de documento de cobrança. (Incluído pela Lei nº 14.770, de 2023)
+
+[[ARTICLE: 93]]
+Art. 93. Nas contratações de projetos ou de serviços técnicos especializados, inclusive daqueles que
+contemplem o desenvolvimento de programas e aplicações de internet para computadores, máquinas, equipamentos
+e dispositivos de tratamento e de comunicação da informação (software) - e a respectiva documentação técnica
+associada -, o autor deverá ceder todos os direitos patrimoniais a eles relativos para a Administração Pública, hipótese
+em que poderão ser livremente utilizados e alterados por ela em outras ocasiões, sem necessidade de nova
+autorização de seu autor.
+[[PARAGRAPH: §1]]
+§ 1º Quando o projeto se referir a obra imaterial de caráter tecnológico, insuscetível de privilégio, a cessão dos
+direitos a que se refere o caput deste artigo incluirá o fornecimento de todos os dados, documentos e elementos de
+informação pertinentes à tecnologia de concepção, desenvolvimento, fixação em suporte físico de qualquer natureza e
+aplicação da obra.
+[[PARAGRAPH: §2]]
+§ 2º É facultado à Administração Pública deixar de exigir a cessão de direitos a que se refere o caput deste
+artigo quando o objeto da contratação envolver atividade de pesquisa e desenvolvimento de caráter científico,
+tecnológico ou de inovação, considerados os princípios e os mecanismos instituídos pela Lei nº 10.973, de 2 de
+dezembro de 2004.
+[[PARAGRAPH: §3]]
+§ 3º Na hipótese de posterior alteração do projeto pela Administração Pública, o autor deverá ser comunicado, e
+os registros serão promovidos nos órgãos ou entidades competentes.
+
+[[ARTICLE: 94]]
+Art. 94. A divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável para a
+eficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados da data de sua
+assinatura:
+I - 20 (vinte) dias úteis, no caso de licitação;
+II - 10 (dez) dias úteis, no caso de contratação direta.
+[[PARAGRAPH: §1]]
+§ 1º Os contratos celebrados em caso de urgência terão eficácia a partir de sua assinatura e deverão ser
+publicados nos prazos previstos nos incisos I e II do caput deste artigo, sob pena de nulidade.
+[[PARAGRAPH: §2]]
+§ 2º A divulgação de que trata o caput deste artigo, quando referente à contratação de profissional do setor
+artístico por inexigibilidade, deverá identificar os custos do cachê do artista, dos músicos ou da banda, quando houver,
+do transporte, da hospedagem, da infraestrutura, da logística do evento e das demais despesas específicas.
+[[PARAGRAPH: §3]]
+§ 3º No caso de obras, a Administração divulgará em sítio eletrônico oficial, em até 25 (vinte e cinco) dias úteis
+após a assinatura do contrato, os quantitativos e os preços unitários e totais que contratar e, em até 45 (quarenta e
+cinco) dias úteis após a conclusão do contrato, os quantitativos executados e os preços praticados.
+[[PARAGRAPH: §4]]
+§ 4º (VETADO).
+[[PARAGRAPH: §5]]
+§ 5º (VETADO).
+
+[[ARTICLE: 95]]
+Art. 95. O instrumento de contrato é obrigatório, salvo nas seguintes hipóteses, em que a Administração poderá
+substituí-lo por outro instrumento hábil, como carta-contrato, nota de empenho de despesa, autorização de compra ou
+ordem de execução de serviço:
+I - dispensa de licitação em razão de valor;
+II - compras com entrega imediata e integral dos bens adquiridos e dos quais não resultem obrigações futuras,
+inclusive quanto a assistência técnica, independentemente de seu valor.
+[[PARAGRAPH: §1]]
+§ 1º Às hipóteses de substituição do instrumento de contrato, aplica-se, no que couber, o disposto no art. 92
+desta Lei.
+[[PARAGRAPH: §2]]
+§ 2º É nulo e de nenhum efeito o contrato verbal com a Administração, salvo o de pequenas compras ou o de
+prestação de serviços de pronto pagamento, assim entendidos aqueles de valor não superior a R$ 10.000,00 (dez mil
+reais). (Vide Decreto nº 10.922, de 2021) (Vigência) (Vide Decreto nº 11.317, de 2022) Vigência (Vide
+Decreto nº 11.871, de 2023) Vigência (Vide Decreto nº 12.343, de 2024) Vigência
+
+[[CHAPTER: CAPÍTULO II]]
+DAS GARANTIAS
+
+[[ARTICLE: 96]]
+Art. 96. A critério da autoridade competente, em cada caso, poderá ser exigida, mediante previsão no edital,
+prestação de garantia nas contratações de obras, serviços e fornecimentos.
+[[PARAGRAPH: §1]]
+§ 1º Caberá ao contratado optar por uma das seguintes modalidades de garantia:
+I - caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante registro em
+sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e avaliados por seus valores
+econômicos, conforme definido pelo Ministério da Economia;
+II - seguro-garantia;
+III - fiança bancária emitida por banco ou instituição financeira devidamente autorizada a operar no País pelo
+Banco Central do Brasil.
+IV - título de capitalização custeado por pagamento único, com resgate pelo valor total. (Incluído pela Lei nº
+14.770, de 2023)
+[[PARAGRAPH: §2]]
+§ 2º Na hipótese de suspensão do contrato por ordem ou inadimplemento da Administração, o contratado ficará
+desobrigado de renovar a garantia ou de endossar a apólice de seguro até a ordem de reinício da execução ou o
+adimplemento pela Administração.
+[[PARAGRAPH: §3]]
+§ 3º O edital fixará prazo mínimo de 1 (um) mês, contado da data de homologação da licitação e anterior à
+assinatura do contrato, para a prestação da garantia pelo contratado quando optar pela modalidade prevista no inciso
+II do § 1º deste artigo.
+
+[[ARTICLE: 97]]
+Art. 97. O seguro-garantia tem por objetivo garantir o fiel cumprimento das obrigações assumidas pelo
+contratado perante à Administração, inclusive as multas, os prejuízos e as indenizações decorrentes de
+inadimplemento, observadas as seguintes regras nas contratações regidas por esta Lei:
+I - o prazo de vigência da apólice será igual ou superior ao prazo estabelecido no contrato principal e deverá
+acompanhar as modificações referentes à vigência deste mediante a emissão do respectivo endosso pela seguradora;
+II - o seguro-garantia continuará em vigor mesmo se o contratado não tiver pago o prêmio nas datas
+convencionadas.
+Parágrafo único. Nos contratos de execução continuada ou de fornecimento contínuo de bens e serviços, será
+permitida a substituição da apólice de seguro-garantia na data de renovação ou de aniversário, desde que mantidas
+as mesmas condições e coberturas da apólice vigente e desde que nenhum período fique descoberto, ressalvado o
+disposto no § 2º do art. 96 desta Lei.
+
+[[ARTICLE: 98]]
+Art. 98. Nas contratações de obras, serviços e fornecimentos, a garantia poderá ser de até 5% (cinco por cento)
+do valor inicial do contrato, autorizada a majoração desse percentual para até 10% (dez por cento), desde que
+justificada mediante análise da complexidade técnica e dos riscos envolvidos.
+Parágrafo único. Nas contratações de serviços e fornecimentos contínuos com vigência superior a 1 (um) ano,
+assim como nas subsequentes prorrogações, será utilizado o valor anual do contrato para definição e aplicação dos
+percentuais previstos no caput deste artigo.
+
+[[ARTICLE: 99]]
+Art. 99. Nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de
+garantia, na modalidade seguro-garantia, com cláusula de retomada prevista no art. 102 desta Lei, em percentual
+equivalente a até 30% (trinta por cento) do valor inicial do contrato.
+
+[[ARTICLE: 100]]
+Art. 100. A garantia prestada pelo contratado será liberada ou restituída após a fiel execução do contrato ou
+após a sua extinção por culpa exclusiva da Administração e, quando em dinheiro, atualizada monetariamente.
+
+[[ARTICLE: 101]]
+Art. 101. Nos casos de contratos que impliquem a entrega de bens pela Administração, dos quais o contratado
+ficará depositário, o valor desses bens deverá ser acrescido ao valor da garantia.
+
+[[ARTICLE: 102]]
+Art. 102. Na contratação de obras e serviços de engenharia, o edital poderá exigir a prestação da garantia na
+modalidade seguro-garantia e prever a obrigação de a seguradora, em caso de inadimplemento pelo contratado,
+assumir a execução e concluir o objeto do contrato, hipótese em que:
+I - a seguradora deverá firmar o contrato, inclusive os aditivos, como interveniente anuente e poderá:
+a) ter livre acesso às instalações em que for executado o contrato principal;
+b) acompanhar a execução do contrato principal;
+c) ter acesso a auditoria técnica e contábil;
+d) requerer esclarecimentos ao responsável técnico pela obra ou pelo fornecimento;
+II - a emissão de empenho em nome da seguradora, ou a quem ela indicar para a conclusão do contrato, será
+autorizada desde que demonstrada sua regularidade fiscal;
+III - a seguradora poderá subcontratar a conclusão do contrato, total ou parcialmente.
+Parágrafo único. Na hipótese de inadimplemento do contratado, serão observadas as seguintes disposições:
+I - caso a seguradora execute e conclua o objeto do contrato, estará isenta da obrigação de pagar a importância
+segurada indicada na apólice;
+II - caso a seguradora não assuma a execução do contrato, pagará a integralidade da importância segurada
+indicada na apólice.
+
+[[CHAPTER: CAPÍTULO III]]
+DA ALOCAÇÃO DE RISCOS
+
+[[ARTICLE: 103]]
+Art. 103. O contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de alocação
+de riscos, alocando-os entre contratante e contratado, mediante indicação daqueles a serem assumidos pelo setor
+público ou pelo setor privado ou daqueles a serem compartilhados.
+[[PARAGRAPH: §1]]
+§ 1º A alocação de riscos de que trata o caput deste artigo considerará, em compatibilidade com as obrigações
+e os encargos atribuídos às partes no contrato, a natureza do risco, o beneficiário das prestações a que se vincula e a
+capacidade de cada setor para melhor gerenciá-lo.
+[[PARAGRAPH: §2]]
+§ 2º Os riscos que tenham cobertura oferecida por seguradoras serão preferencialmente transferidos ao
+contratado.
+[[PARAGRAPH: §3]]
+§ 3º A alocação dos riscos contratuais será quantificada para fins de projeção dos reflexos de seus custos no
+valor estimado da contratação.
+[[PARAGRAPH: §4]]
+§ 4º A matriz de alocação de riscos definirá o equilíbrio econômico-financeiro inicial do contrato em relação a
+eventos supervenientes e deverá ser observada na solução de eventuais pleitos das partes.
+[[PARAGRAPH: §5]]
+§ 5º Sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será considerado
+mantido o equilíbrio econômico-financeiro, renunciando as partes aos pedidos de restabelecimento do equilíbrio
+relacionados aos riscos assumidos, exceto no que se refere:
+I - às alterações unilaterais determinadas pela Administração, nas hipóteses do inciso I do caput do art. 124
+desta Lei;
+II - ao aumento ou à redução, por legislação superveniente, dos tributos diretamente pagos pelo contratado em
+decorrência do contrato.
+[[PARAGRAPH: §6]]
+§ 6º Na alocação de que trata o caput deste artigo, poderão ser adotados métodos e padrões usualmente
+utilizados por entidades públicas e privadas, e os ministérios e secretarias supervisores dos órgãos e das entidades
+da Administração Pública poderão definir os parâmetros e o detalhamento dos procedimentos necessários a sua
+identificação, alocação e quantificação financeira.
+
+[[CHAPTER: CAPÍTULO IV]]
+DAS PRERROGATIVAS DA ADMINISTRAÇÃO
+
+[[ARTICLE: 104]]
+Art. 104. O regime jurídico dos contratos instituído por esta Lei confere à Administração, em relação a eles, as
+prerrogativas de:
+I - modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, respeitados os
+direitos do contratado;
+II - extingui-los, unilateralmente, nos casos especificados nesta Lei;
+III - fiscalizar sua execução;
+IV - aplicar sanções motivadas pela inexecução total ou parcial do ajuste;
+V - ocupar provisoriamente bens móveis e imóveis e utilizar pessoal e serviços vinculados ao objeto do contrato
+nas hipóteses de:
+a) risco à prestação de serviços essenciais;
+b) necessidade de acautelar apuração administrativa de faltas contratuais pelo contratado, inclusive após
+extinção do contrato.
+[[PARAGRAPH: §1]]
+§ 1º As cláusulas econômico-financeiras e monetárias dos contratos não poderão ser alteradas sem prévia
+concordância do contratado.
+[[PARAGRAPH: §2]]
+§ 2º Na hipótese prevista no inciso I do caput deste artigo, as cláusulas econômico-financeiras do contrato
+deverão ser revistas para que se mantenha o equilíbrio contratual.
+
+[[CHAPTER: CAPÍTULO V]]
+DA DURAÇÃO DOS CONTRATOS
+
+[[ARTICLE: 105]]
+Art. 105. A duração dos contratos regidos por esta Lei será a prevista em edital, e deverão ser observadas, no
+momento da contratação e a cada exercício financeiro, a disponibilidade de créditos orçamentários, bem como a
+previsão no plano plurianual, quando ultrapassar 1 (um) exercício financeiro.
+Parágrafo único. Não serão objeto de cancelamento automático os restos a pagar vinculados a contratos de
+duração plurianual, senão depois de encerrada a vigência destes, nem os vinculados a contratos rescindidos, nos casos
+dos §§ 8º e 9º do art. 90 desta Lei. (Incluído pela Lei nº 14.770, de 2023)
+
+[[ARTICLE: 106]]
+Art. 106. A Administração poderá celebrar contratos com prazo de até 5 (cinco) anos nas hipóteses de serviços
+e fornecimentos contínuos, observadas as seguintes diretrizes:
+I - a autoridade competente do órgão ou entidade contratante deverá atestar a maior vantagem econômica
+vislumbrada em razão da contratação plurianual;
+II - a Administração deverá atestar, no início da contratação e de cada exercício, a existência de créditos
+orçamentários vinculados à contratação e a vantagem em sua manutenção;
+III - a Administração terá a opção de extinguir o contrato, sem ônus, quando não dispuser de créditos
+orçamentários para sua continuidade ou quando entender que o contrato não mais lhe oferece vantagem.
+[[PARAGRAPH: §1]]
+§ 1º A extinção mencionada no inciso III do caput deste artigo ocorrerá apenas na próxima data de aniversário
+do contrato e não poderá ocorrer em prazo inferior a 2 (dois) meses, contado da referida data.
+[[PARAGRAPH: §2]]
+§ 2º Aplica-se o disposto neste artigo ao aluguel de equipamentos e à utilização de programas de informática.
+
+[[ARTICLE: 107]]
+Art. 107. Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente,
+respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que
+as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou
+a extinção contratual sem ônus para qualquer das partes.
+
+[[ARTICLE: 108]]
+Art. 108. A Administração poderá celebrar contratos com prazo de até 10 (dez) anos nas hipóteses previstas nas
+alíneas “f” e “g” do inciso IV e nos incisos V, VI, XII e XVI do caput do art. 75 desta Lei.
+
+[[ARTICLE: 109]]
+Art. 109. A Administração poderá estabelecer a vigência por prazo indeterminado nos contratos em que seja
+usuária de serviço público oferecido em regime de monopólio, desde que comprovada, a cada exercício financeiro, a
+existência de créditos orçamentários vinculados à contratação.
+
+[[ARTICLE: 110]]
+Art. 110. Na contratação que gere receita e no contrato de eficiência que gere economia para a Administração,
+os prazos serão de:
+I - até 10 (dez) anos, nos contratos sem investimento;
+II - até 35 (trinta e cinco) anos, nos contratos com investimento, assim considerados aqueles que impliquem a
+elaboração de benfeitorias permanentes, realizadas exclusivamente a expensas do contratado, que serão revertidas
+ao patrimônio da Administração Pública ao término do contrato.
+
+[[ARTICLE: 111]]
+Art. 111. Na contratação que previr a conclusão de escopo predefinido, o prazo de vigência será
+automaticamente prorrogado quando seu objeto não for concluído no período firmado no contrato.
+Parágrafo único. Quando a não conclusão decorrer de culpa do contratado:
+I - o contratado será constituído em mora, aplicáveis a ele as respectivas sanções administrativas;
+II - a Administração poderá optar pela extinção do contrato e, nesse caso, adotará as medidas admitidas em lei
+para a continuidade da execução contratual.
+
+[[ARTICLE: 112]]
+Art. 112. Os prazos contratuais previstos nesta Lei não excluem nem revogam os prazos contratuais previstos
+em lei especial.
+
+[[ARTICLE: 113]]
+Art. 113. O contrato firmado sob o regime de fornecimento e prestação de serviço associado terá sua vigência
+máxima definida pela soma do prazo relativo ao fornecimento inicial ou à entrega da obra com o prazo relativo ao
+serviço de operação e manutenção, este limitado a 5 (cinco) anos contados da data de recebimento do objeto inicial,
+autorizada a prorrogação na forma do art. 107 desta Lei.
+
+[[ARTICLE: 114]]
+Art. 114. O contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação
+poderá ter vigência máxima de 15 (quinze) anos.
+
+[[CHAPTER: CAPÍTULO VI]]
+DA EXECUÇÃO DOS CONTRATOS
+
+[[ARTICLE: 115]]
+Art. 115. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as
+normas desta Lei, e cada parte responderá pelas consequências de sua inexecução total ou parcial.
+[[PARAGRAPH: §1]]
+§ 1º É proibido à Administração retardar imotivadamente a execução de obra ou serviço, ou de suas parcelas,
+inclusive na hipótese de posse do respectivo chefe do Poder Executivo ou de novo titular no órgão ou entidade
+contratante.
+[[PARAGRAPH: §2]]
+§ 2º (VETADO).
+[[PARAGRAPH: §3]]
+§ 3º (VETADO).
+[[PARAGRAPH: §4]]
+§ 4º (VETADO).
+[[PARAGRAPH: §4]]
+§ 4º Nas contratações de obras e serviços de engenharia, sempre que a responsabilidade pelo licenciamento
+ambiental for da Administração, a manifestação prévia ou licença prévia, quando cabíveis, deverão ser obtidas antes
+da divulgação do edital. (Promulgação partes vetadas)
+[[PARAGRAPH: §5]]
+§ 5º Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução
+será prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante simples apostila.
+[[PARAGRAPH: §6]]
+§ 6º Nas contratações de obras, verificada a ocorrência do disposto no § 5º deste artigo por mais de 1 (um)
+mês, a Administração deverá divulgar, em sítio eletrônico oficial e em placa a ser afixada em local da obra de fácil
+visualização pelos cidadãos, aviso público de obra paralisada, com o motivo e o responsável pela inexecução
+temporária do objeto do contrato e a data prevista para o reinício da sua execução.
+[[PARAGRAPH: §7]]
+§ 7º Os textos com as informações de que trata o § 6º deste artigo deverão ser elaborados pela Administração.
+
+[[ARTICLE: 116]]
+Art. 116. Ao longo de toda a execução do contrato, o contratado deverá cumprir a reserva de cargos prevista em
+lei para pessoa com deficiência, para reabilitado da Previdência Social ou para aprendiz, bem como as reservas de
+cargos previstas em outras normas específicas.
+Parágrafo único. Sempre que solicitado pela Administração, o contratado deverá comprovar o cumprimento da
+reserva de cargos a que se refere o caput deste artigo, com a indicação dos empregados que preencherem as
+referidas vagas.
+
+[[ARTICLE: 117]]
+Art. 117. A execução do contrato deverá ser acompanhada e fiscalizada por 1 (um) ou mais fiscais do
+contrato, representantes da Administração especialmente designados conforme requisitos estabelecidos no art. 7º
+desta Lei, ou pelos respectivos substitutos, permitida a contratação de terceiros para assisti-los e subsidiá-los com
+informações pertinentes a essa atribuição.
+[[PARAGRAPH: §1]]
+§ 1º O fiscal do contrato anotará em registro próprio todas as ocorrências relacionadas à execução do contrato,
+determinando o que for necessário para a regularização das faltas ou dos defeitos observados.
+[[PARAGRAPH: §2]]
+§ 2º O fiscal do contrato informará a seus superiores, em tempo hábil para a adoção das medidas convenientes,
+a situação que demandar decisão ou providência que ultrapasse sua competência.
+[[PARAGRAPH: §3]]
+§ 3º O fiscal do contrato será auxiliado pelos órgãos de assessoramento jurídico e de controle interno da
+Administração, que deverão dirimir dúvidas e subsidiá-lo com informações relevantes para prevenir riscos na
+execução contratual.
+[[PARAGRAPH: §4]]
+§ 4º Na hipótese da contratação de terceiros prevista no caput deste artigo, deverão ser observadas as
+seguintes regras:
+I - a empresa ou o profissional contratado assumirá responsabilidade civil objetiva pela veracidade e pela
+precisão das informações prestadas, firmará termo de compromisso de confidencialidade e não poderá exercer
+atribuição própria e exclusiva de fiscal de contrato;
+II - a contratação de terceiros não eximirá de responsabilidade o fiscal do contrato, nos limites das informações
+recebidas do terceiro contratado.
+
+[[ARTICLE: 118]]
+Art. 118. O contratado deverá manter preposto aceito pela Administração no local da obra ou do serviço para
+representá-lo na execução do contrato.
+
+[[ARTICLE: 119]]
+Art. 119. O contratado será obrigado a reparar, corrigir, remover, reconstruir ou substituir, a suas expensas, no
+total ou em parte, o objeto do contrato em que se verificarem vícios, defeitos ou incorreções resultantes de sua
+execução ou de materiais nela empregados.
+
+[[ARTICLE: 120]]
+Art. 120. O contratado será responsável pelos danos causados diretamente à Administração ou a terceiros em
+razão da execução do contrato, e não excluirá nem reduzirá essa responsabilidade a fiscalização ou o
+acompanhamento pelo contratante.
+
+[[ARTICLE: 121]]
+Art. 121. Somente o contratado será responsável pelos encargos trabalhistas, previdenciários, fiscais e
+comerciais resultantes da execução do contrato.
+[[PARAGRAPH: §1]]
+§ 1º A inadimplência do contratado em relação aos encargos trabalhistas, fiscais e comerciais não transferirá à
+Administração a responsabilidade pelo seu pagamento e não poderá onerar o objeto do contrato nem restringir a
+regularização e o uso das obras e das edificações, inclusive perante o registro de imóveis, ressalvada a hipótese
+prevista no § 2º deste artigo.
+[[PARAGRAPH: §2]]
+§ 2º Exclusivamente nas contratações de serviços contínuos com regime de dedicação exclusiva de mão de
+obra, a Administração responderá solidariamente pelos encargos previdenciários e subsidiariamente pelos encargos
+trabalhistas se comprovada falha na fiscalização do cumprimento das obrigações do contratado.
+[[PARAGRAPH: §3]]
+§ 3º Nas contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra, para
+assegurar o cumprimento de obrigações trabalhistas pelo contratado, a Administração, mediante disposição em edital
+ou em contrato, poderá, entre outras medidas:
+I - exigir caução, fiança bancária ou contratação de seguro-garantia com cobertura para verbas rescisórias
+inadimplidas;
+II - condicionar o pagamento à comprovação de quitação das obrigações trabalhistas vencidas relativas ao
+contrato;
+III - efetuar o depósito de valores em conta vinculada;
+IV - em caso de inadimplemento, efetuar diretamente o pagamento das verbas trabalhistas, que serão
+deduzidas do pagamento devido ao contratado;
+V - estabelecer que os valores destinados a férias, a décimo terceiro salário, a ausências legais e a verbas
+rescisórias dos empregados do contratado que participarem da execução dos serviços contratados serão pagos pelo
+contratante ao contratado somente na ocorrência do fato gerador.
+[[PARAGRAPH: §4]]
+§ 4º Os valores depositados na conta vinculada a que se refere o inciso III do § 3º deste artigo são
+absolutamente impenhoráveis.
+[[PARAGRAPH: §5]]
+§ 5º O recolhimento das contribuições previdenciárias observará o disposto no art. 31 da Lei nº 8.212, de 24 de
+julho de 1991.
+
+[[ARTICLE: 122]]
+Art. 122. Na execução do contrato e sem prejuízo das responsabilidades contratuais e legais, o contratado
+poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite autorizado, em cada caso, pela
+Administração.
+[[PARAGRAPH: §1]]
+§ 1º O contratado apresentará à Administração documentação que comprove a capacidade técnica do
+subcontratado, que será avaliada e juntada aos autos do processo correspondente.
+[[PARAGRAPH: §2]]
+§ 2º Regulamento ou edital de licitação poderão vedar, restringir ou estabelecer condições para a
+subcontratação.
+[[PARAGRAPH: §3]]
+§ 3º Será vedada a subcontratação de pessoa física ou jurídica, se aquela ou os dirigentes desta mantiverem
+vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade
+contratante ou com agente público que desempenhe função na licitação ou atue na fiscalização ou na gestão do
+contrato, ou se deles forem cônjuge, companheiro ou parente em linha reta, colateral, ou por afinidade, até o terceiro
+grau, devendo essa proibição constar expressamente do edital de licitação.
+
+[[ARTICLE: 123]]
+Art. 123. A Administração terá o dever de explicitamente emitir decisão sobre todas as solicitações e
+reclamações relacionadas à execução dos contratos regidos por esta Lei, ressalvados os requerimentos
+manifestamente impertinentes, meramente protelatórios ou de nenhum interesse para a boa execução do contrato.
+Parágrafo único. Salvo disposição legal ou cláusula contratual que estabeleça prazo específico, concluída a
+instrução do requerimento, a Administração terá o prazo de 1 (um) mês para decidir, admitida a prorrogação motivada
+por igual período.
+
+[[CHAPTER: CAPÍTULO VII]]
+DA ALTERAÇÃO DOS CONTRATOS E DOS PREÇOS
+
+[[ARTICLE: 124]]
+Art. 124. Os contratos regidos por esta Lei poderão ser alterados, com as devidas justificativas, nos seguintes
+casos:
+I - unilateralmente pela Administração:
+a) quando houver modificação do projeto ou das especificações, para melhor adequação técnica a seus
+objetivos;
+b) quando for necessária a modificação do valor contratual em decorrência de acréscimo ou diminuição
+quantitativa de seu objeto, nos limites permitidos por esta Lei;
+II - por acordo entre as partes:
+a) quando conveniente a substituição da garantia de execução;
+b) quando necessária a modificação do regime de execução da obra ou do serviço, bem como do modo de
+fornecimento, em face de verificação técnica da inaplicabilidade dos termos contratuais originários;
+c) quando necessária a modificação da forma de pagamento por imposição de circunstâncias supervenientes,
+mantido o valor inicial atualizado e vedada a antecipação do pagamento em relação ao cronograma financeiro fixado
+sem a correspondente contraprestação de fornecimento de bens ou execução de obra ou serviço;
+d) para restabelecer o equilíbrio econômico-financeiro inicial do contrato em caso de força maior, caso fortuito
+ou fato do príncipe ou em decorrência de fatos imprevisíveis ou previsíveis de consequências incalculáveis, que
+inviabilizem a execução do contrato tal como pactuado, respeitada, em qualquer caso, a repartição objetiva de risco
+estabelecida no contrato.
+[[PARAGRAPH: §1]]
+§ 1º Se forem decorrentes de falhas de projeto, as alterações de contratos de obras e serviços de engenharia
+ensejarão apuração de responsabilidade do responsável técnico e adoção das providências necessárias para o
+ressarcimento dos danos causados à Administração.
+[[PARAGRAPH: §2]]
+§ 2º Será aplicado o disposto na alínea “d” do inciso II do caput deste artigo às contratações de obras e
+serviços de engenharia, quando a execução for obstada pelo atraso na conclusão de procedimentos de
+desapropriação, desocupação, servidão administrativa ou licenciamento ambiental, por circunstâncias alheias ao
+contratado.
+
+[[ARTICLE: 125]]
+Art. 125. Nas alterações unilaterais a que se refere o inciso I do caput do art. 124 desta Lei, o contratado será
+obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 25% (vinte e cinco por
+cento) do valor inicial atualizado do contrato que se fizerem nas obras, nos serviços ou nas compras, e, no caso de
+reforma de edifício ou de equipamento, o limite para os acréscimos será de 50% (cinquenta por cento).
+
+[[ARTICLE: 126]]
+Art. 126. As alterações unilaterais a que se refere o inciso I do caput do art. 124 desta Lei não poderão
+transfigurar o objeto da contratação.
+
+[[ARTICLE: 127]]
+Art. 127. Se o contrato não contemplar preços unitários para obras ou serviços cujo aditamento se fizer
+necessário, esses serão fixados por meio da aplicação da relação geral entre os valores da proposta e o do
+orçamento-base da Administração sobre os preços referenciais ou de mercado vigentes na data do aditamento,
+respeitados os limites estabelecidos no art. 125 desta Lei.
+
+[[ARTICLE: 128]]
+Art. 128. Nas contratações de obras e serviços de engenharia, a diferença percentual entre o valor global do
+contrato e o preço global de referência não poderá ser reduzida em favor do contratado em decorrência de
+aditamentos que modifiquem a planilha orçamentária.
+
+[[ARTICLE: 129]]
+Art. 129. Nas alterações contratuais para supressão de obras, bens ou serviços, se o contratado já houver
+adquirido os materiais e os colocado no local dos trabalhos, estes deverão ser pagos pela Administração pelos custos
+de aquisição regularmente comprovados e monetariamente reajustados, podendo caber indenização por outros danos
+eventualmente decorrentes da supressão, desde que regularmente comprovados.
+
+[[ARTICLE: 130]]
+Art. 130. Caso haja alteração unilateral do contrato que aumente ou diminua os encargos do contratado, a
+Administração deverá restabelecer, no mesmo termo aditivo, o equilíbrio econômico-financeiro inicial.
+
+[[ARTICLE: 131]]
+Art. 131. A extinção do contrato não configurará óbice para o reconhecimento do desequilíbrio econômicofinanceiro, hipótese em que será concedida indenização por meio de termo indenizatório.
+Parágrafo único. O pedido de restabelecimento do equilíbrio econômico-financeiro deverá ser formulado durante
+a vigência do contrato e antes de eventual prorrogação nos termos do art. 107 desta Lei.
+
+[[ARTICLE: 132]]
+Art. 132. A formalização do termo aditivo é condição para a execução, pelo contratado, das prestações
+determinadas pela Administração no curso da execução do contrato, salvo nos casos de justificada necessidade de
+antecipação de seus efeitos, hipótese em que a formalização deverá ocorrer no prazo máximo de 1 (um) mês.
+
+[[ARTICLE: 133]]
+Art. 133. Nas hipóteses em que for adotada a contratação integrada ou semi-integrada, é vedada a alteração
+dos valores contratuais, exceto nos seguintes casos:
+I - para restabelecimento do equilíbrio econômico-financeiro decorrente de caso fortuito ou força maior;
+II - por necessidade de alteração do projeto ou das especificações para melhor adequação técnica aos objetivos
+da contratação, a pedido da Administração, desde que não decorrente de erros ou omissões por parte do contratado,
+observados os limites estabelecidos no art. 125 desta Lei;
+III - por necessidade de alteração do projeto nas contratações semi-integradas, nos termos do § 5º do art. 46
+desta Lei;
+IV - por ocorrência de evento superveniente alocado na matriz de riscos como de responsabilidade da
+Administração.
+
+[[ARTICLE: 134]]
+Art. 134. Os preços contratados serão alterados, para mais ou para menos, conforme o caso, se houver, após a
+data da apresentação da proposta, criação, alteração ou extinção de quaisquer tributos ou encargos legais ou a
+superveniência de disposições legais, com comprovada repercussão sobre os preços contratados.
+
+[[ARTICLE: 135]]
+Art. 135. Os preços dos contratos para serviços contínuos com regime de dedicação exclusiva de mão de obra
+ou com predominância de mão de obra serão repactuados para manutenção do equilíbrio econômico-financeiro,
+mediante demonstração analítica da variação dos custos contratuais, com data vinculada:
+I - à da apresentação da proposta, para custos decorrentes do mercado;
+II - ao acordo, à convenção coletiva ou ao dissídio coletivo ao qual a proposta esteja vinculada, para os custos
+de mão de obra.
+[[PARAGRAPH: §1]]
+§ 1º A Administração não se vinculará às disposições contidas em acordos, convenções ou dissídios coletivos
+de trabalho que tratem de matéria não trabalhista, de pagamento de participação dos trabalhadores nos lucros ou
+resultados do contratado, ou que estabeleçam direitos não previstos em lei, como valores ou índices obrigatórios de
+encargos sociais ou previdenciários, bem como de preços para os insumos relacionados ao exercício da atividade.
+[[PARAGRAPH: §2]]
+§ 2º É vedado a órgão ou entidade contratante vincular-se às disposições previstas nos acordos, convenções
+ou dissídios coletivos de trabalho que tratem de obrigações e direitos que somente se aplicam aos contratos com a
+Administração Pública.
+[[PARAGRAPH: §3]]
+§ 3º A repactuação deverá observar o interregno mínimo de 1 (um) ano, contado da data da apresentação da
+proposta ou da data da última repactuação.
+[[PARAGRAPH: §4]]
+§ 4º A repactuação poderá ser dividida em tantas parcelas quantas forem necessárias, observado o princípio da
+anualidade do reajuste de preços da contratação, podendo ser realizada em momentos distintos para discutir a
+variação de custos que tenham sua anualidade resultante em datas diferenciadas, como os decorrentes de mão de
+obra e os decorrentes dos insumos necessários à execução dos serviços.
+[[PARAGRAPH: §5]]
+§ 5º Quando a contratação envolver mais de uma categoria profissional, a repactuação a que se refere o inciso
+II do caput deste artigo poderá ser dividida em tantos quantos forem os acordos, convenções ou dissídios coletivos de
+trabalho das categorias envolvidas na contratação.
+[[PARAGRAPH: §6]]
+§ 6º A repactuação será precedida de solicitação do contratado, acompanhada de demonstração analítica da
+variação dos custos, por meio de apresentação da planilha de custos e formação de preços, ou do novo acordo,
+convenção ou sentença normativa que fundamenta a repactuação.
+
+[[ARTICLE: 136]]
+Art. 136. Registros que não caracterizam alteração do contrato podem ser realizados por simples apostila,
+dispensada a celebração de termo aditivo, como nas seguintes situações:
+I - variação do valor contratual para fazer face ao reajuste ou à repactuação de preços previstos no próprio
+contrato;
+II - atualizações, compensações ou penalizações financeiras decorrentes das condições de pagamento
+previstas no contrato;
+III - alterações na razão ou na denominação social do contratado;
+IV - empenho de dotações orçamentárias.
+
+[[CHAPTER: CAPÍTULO VIII]]
+DAS HIPÓTESES DE EXTINÇÃO DOS CONTRATOS
+
+[[ARTICLE: 137]]
+Art. 137. Constituirão motivos para extinção do contrato, a qual deverá ser formalmente motivada nos autos do
+processo, assegurados o contraditório e a ampla defesa, as seguintes situações:
+I - não cumprimento ou cumprimento irregular de normas editalícias ou de cláusulas contratuais, de
+especificações, de projetos ou de prazos;
+II - desatendimento das determinações regulares emitidas pela autoridade designada para acompanhar e
+fiscalizar sua execução ou por autoridade superior;
+III - alteração social ou modificação da finalidade ou da estrutura da empresa que restrinja sua capacidade de
+concluir o contrato;
+IV - decretação de falência ou de insolvência civil, dissolução da sociedade ou falecimento do contratado;
+V - caso fortuito ou força maior, regularmente comprovados, impeditivos da execução do contrato;
+VI - atraso na obtenção da licença ambiental, ou impossibilidade de obtê-la, ou alteração substancial do
+anteprojeto que dela resultar, ainda que obtida no prazo previsto;
+VII - atraso na liberação das áreas sujeitas a desapropriação, a desocupação ou a servidão administrativa, ou
+impossibilidade de liberação dessas áreas;
+VIII - razões de interesse público, justificadas pela autoridade máxima do órgão ou da entidade contratante;
+IX - não cumprimento das obrigações relativas à reserva de cargos prevista em lei, bem como em outras
+normas específicas, para pessoa com deficiência, para reabilitado da Previdência Social ou para aprendiz.
+[[PARAGRAPH: §1]]
+§ 1º Regulamento poderá especificar procedimentos e critérios para verificação da ocorrência dos motivos
+previstos no caput deste artigo.
+[[PARAGRAPH: §2]]
+§ 2º O contratado terá direito à extinção do contrato nas seguintes hipóteses:
+I - supressão, por parte da Administração, de obras, serviços ou compras que acarrete modificação do valor
+inicial do contrato além do limite permitido no art. 125 desta Lei;
+II - suspensão de execução do contrato, por ordem escrita da Administração, por prazo superior a 3 (três)
+meses;
+III - repetidas suspensões que totalizem 90 (noventa) dias úteis, independentemente do pagamento obrigatório
+de indenização pelas sucessivas e contratualmente imprevistas desmobilizações e mobilizações e outras previstas;
+IV - atraso superior a 2 (dois) meses, contado da emissão da nota fiscal, dos pagamentos ou de parcelas de
+pagamentos devidos pela Administração por despesas de obras, serviços ou fornecimentos;
+V - não liberação pela Administração, nos prazos contratuais, de área, local ou objeto, para execução de obra,
+serviço ou fornecimento, e de fontes de materiais naturais especificadas no projeto, inclusive devido a atraso ou
+descumprimento das obrigações atribuídas pelo contrato à Administração relacionadas a desapropriação, a
+desocupação de áreas públicas ou a licenciamento ambiental.
+[[PARAGRAPH: §3]]
+§ 3º As hipóteses de extinção a que se referem os incisos II, III e IV do § 2º deste artigo observarão as
+seguintes disposições:
+I - não serão admitidas em caso de calamidade pública, de grave perturbação da ordem interna ou de guerra,
+bem como quando decorrerem de ato ou fato que o contratado tenha praticado, do qual tenha participado ou para o
+qual tenha contribuído;
+II - assegurarão ao contratado o direito de optar pela suspensão do cumprimento das obrigações assumidas até
+a normalização da situação, admitido o restabelecimento do equilíbrio econômico-financeiro do contrato, na forma da
+alínea “d” do inciso II do caput do art. 124 desta Lei.
+[[PARAGRAPH: §4]]
+§ 4º Os emitentes das garantias previstas no art. 96 desta Lei deverão ser notificados pelo contratante quanto
+ao início de processo administrativo para apuração de descumprimento de cláusulas contratuais.
+
+[[ARTICLE: 138]]
+Art. 138. A extinção do contrato poderá ser:
+I - determinada por ato unilateral e escrito da Administração, exceto no caso de descumprimento decorrente de
+sua própria conduta;
+II - consensual, por acordo entre as partes, por conciliação, por mediação ou por comitê de resolução de
+disputas, desde que haja interesse da Administração;
+III - determinada por decisão arbitral, em decorrência de cláusula compromissória ou compromisso arbitral, ou
+por decisão judicial.
+[[PARAGRAPH: §1]]
+§ 1º A extinção determinada por ato unilateral da Administração e a extinção consensual deverão ser precedidas
+de autorização escrita e fundamentada da autoridade competente e reduzidas a termo no respectivo processo.
+[[PARAGRAPH: §2]]
+§ 2º Quando a extinção decorrer de culpa exclusiva da Administração, o contratado será ressarcido pelos
+prejuízos regularmente comprovados que houver sofrido e terá direito a:
+I - devolução da garantia;
+II - pagamentos devidos pela execução do contrato até a data de extinção;
+III - pagamento do custo da desmobilização.
+
+[[ARTICLE: 139]]
+Art. 139. A extinção determinada por ato unilateral da Administração poderá acarretar, sem prejuízo das
+sanções previstas nesta Lei, as seguintes consequências:
+I - assunção imediata do objeto do contrato, no estado e local em que se encontrar, por ato próprio da
+Administração;
+II - ocupação e utilização do local, das instalações, dos equipamentos, do material e do pessoal empregados na
+execução do contrato e necessários à sua continuidade;
+III - execução da garantia contratual para:
+a) ressarcimento da Administração Pública por prejuízos decorrentes da não execução;
+b) pagamento de verbas trabalhistas, fundiárias e previdenciárias, quando cabível;
+c) pagamento das multas devidas à Administração Pública;
+d) exigência da assunção da execução e da conclusão do objeto do contrato pela seguradora, quando cabível;
+IV - retenção dos créditos decorrentes do contrato até o limite dos prejuízos causados à Administração Pública
+e das multas aplicadas.
+[[PARAGRAPH: §1]]
+§ 1º A aplicação das medidas previstas nos incisos I e II do caput deste artigo ficará a critério da Administração,
+que poderá dar continuidade à obra ou ao serviço por execução direta ou indireta.
+[[PARAGRAPH: §2]]
+§ 2º Na hipótese do inciso II do caput deste artigo, o ato deverá ser precedido de autorização expressa do
+ministro de Estado, do secretário estadual ou do secretário municipal competente, conforme o caso.
+
+[[CHAPTER: CAPÍTULO IX]]
+DO RECEBIMENTO DO OBJETO DO CONTRATO
+
+[[ARTICLE: 140]]
+Art. 140. O objeto do contrato será recebido:
+I - em se tratando de obras e serviços:
+a) provisoriamente, pelo responsável por seu acompanhamento e fiscalização, mediante termo detalhado,
+quando verificado o cumprimento das exigências de caráter técnico;
+b) definitivamente, por servidor ou comissão designada pela autoridade competente, mediante termo detalhado
+que comprove o atendimento das exigências contratuais;
+II - em se tratando de compras:
+a) provisoriamente, de forma sumária, pelo responsável por seu acompanhamento e fiscalização, com
+verificação posterior da conformidade do material com as exigências contratuais;
+b) definitivamente, por servidor ou comissão designada pela autoridade competente, mediante termo detalhado
+que comprove o atendimento das exigências contratuais.
+[[PARAGRAPH: §1]]
+§ 1º O objeto do contrato poderá ser rejeitado, no todo ou em parte, quando estiver em desacordo com o
+contrato.
+[[PARAGRAPH: §2]]
+§ 2º O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança
+da obra ou serviço nem a responsabilidade ético-profissional pela perfeita execução do contrato, nos limites
+estabelecidos pela lei ou pelo contrato.
+[[PARAGRAPH: §3]]
+§ 3º Os prazos e os métodos para a realização dos recebimentos provisório e definitivo serão definidos em
+regulamento ou no contrato.
+[[PARAGRAPH: §4]]
+§ 4º Salvo disposição em contrário constante do edital ou de ato normativo, os ensaios, os testes e as demais
+provas para aferição da boa execução do objeto do contrato exigidos por normas técnicas oficiais correrão por conta
+do contratado.
+[[PARAGRAPH: §5]]
+§ 5º Em se tratando de projeto de obra, o recebimento definitivo pela Administração não eximirá o projetista ou
+o consultor da responsabilidade objetiva por todos os danos causados por falha de projeto.
+[[PARAGRAPH: §6]]
+§ 6º Em se tratando de obra, o recebimento definitivo pela Administração não eximirá o contratado, pelo prazo
+mínimo de 5 (cinco) anos, admitida a previsão de prazo de garantia superior no edital e no contrato, da
+responsabilidade objetiva pela solidez e pela segurança dos materiais e dos serviços executados e pela
+funcionalidade da construção, da reforma, da recuperação ou da ampliação do bem imóvel, e, em caso de vício,
+defeito ou incorreção identificados, o contratado ficará responsável pela reparação, pela correção, pela reconstrução
+ou pela substituição necessárias.
+
+[[CHAPTER: CAPÍTULO X]]
+DOS PAGAMENTOS
+
+[[ARTICLE: 141]]
+Art. 141. No dever de pagamento pela Administração, será observada a ordem cronológica para cada fonte
+diferenciada de recursos, subdividida nas seguintes categorias de contratos:
+I - fornecimento de bens;
+II - locações;
+III - prestação de serviços;
+IV - realização de obras.
+[[PARAGRAPH: §1]]
+§ 1º A ordem cronológica referida no caput deste artigo poderá ser alterada, mediante prévia justificativa da
+autoridade competente e posterior comunicação ao órgão de controle interno da Administração e ao tribunal de contas
+competente, exclusivamente nas seguintes situações:
+I - grave perturbação da ordem, situação de emergência ou calamidade pública;
+II - pagamento a microempresa, empresa de pequeno porte, agricultor familiar, produtor rural pessoa física,
+microempreendedor individual e sociedade cooperativa, desde que demonstrado o risco de descontinuidade do
+cumprimento do objeto do contrato;
+III - pagamento de serviços necessários ao funcionamento dos sistemas estruturantes, desde que demonstrado
+o risco de descontinuidade do cumprimento do objeto do contrato;
+IV - pagamento de direitos oriundos de contratos em caso de falência, recuperação judicial ou dissolução da
+empresa contratada;
+V - pagamento de contrato cujo objeto seja imprescindível para assegurar a integridade do patrimônio público
+ou para manter o funcionamento das atividades finalísticas do órgão ou entidade, quando demonstrado o risco de
+descontinuidade da prestação de serviço público de relevância ou o cumprimento da missão institucional.
+[[PARAGRAPH: §2]]
+§ 2º A inobservância imotivada da ordem cronológica referida no caput deste artigo ensejará a apuração de
+responsabilidade do agente responsável, cabendo aos órgãos de controle a sua fiscalização.
+[[PARAGRAPH: §3]]
+§ 3º O órgão ou entidade deverá disponibilizar, mensalmente, em seção específica de acesso à informação em
+seu sítio na internet, a ordem cronológica de seus pagamentos, bem como as justificativas que fundamentarem a
+eventual alteração dessa ordem.
+
+[[ARTICLE: 142]]
+Art. 142. Disposição expressa no edital ou no contrato poderá prever pagamento em conta vinculada ou
+pagamento pela efetiva comprovação do fato gerador.
+Parágrafo único. (VETADO).
+
+[[ARTICLE: 143]]
+Art. 143. No caso de controvérsia sobre a execução do objeto, quanto a dimensão, qualidade e quantidade, a
+parcela incontroversa deverá ser liberada no prazo previsto para pagamento.
+
+[[ARTICLE: 144]]
+Art. 144. Na contratação de obras, fornecimentos e serviços, inclusive de engenharia, poderá ser estabelecida
+remuneração variável vinculada ao desempenho do contratado, com base em metas, padrões de qualidade, critérios
+de sustentabilidade ambiental e prazos de entrega definidos no edital de licitação e no contrato.
+[[PARAGRAPH: §1]]
+§ 1º O pagamento poderá ser ajustado em base percentual sobre o valor economizado em determinada
+despesa, quando o objeto do contrato visar à implantação de processo de racionalização, hipótese em que as
+despesas correrão à conta dos mesmos créditos orçamentários, na forma de regulamentação específica.
+[[PARAGRAPH: §2]]
+§ 2º A utilização de remuneração variável será motivada e respeitará o limite orçamentário fixado pela
+Administração para a contratação.
+
+[[ARTICLE: 145]]
+Art. 145. Não será permitido pagamento antecipado, parcial ou total, relativo a parcelas contratuais vinculadas
+ao fornecimento de bens, à execução de obras ou à prestação de serviços.
+[[PARAGRAPH: §1]]
+§ 1º A antecipação de pagamento somente será permitida se propiciar sensível economia de recursos ou se
+representar condição indispensável para a obtenção do bem ou para a prestação do serviço, hipótese que deverá ser
+previamente justificada no processo licitatório e expressamente prevista no edital de licitação ou instrumento formal de
+contratação direta.
+[[PARAGRAPH: §2]]
+§ 2º A Administração poderá exigir a prestação de garantia adicional como condição para o pagamento
+antecipado.
+[[PARAGRAPH: §3]]
+§ 3º Caso o objeto não seja executado no prazo contratual, o valor antecipado deverá ser devolvido.
+
+[[ARTICLE: 146]]
+Art. 146. No ato de liquidação da despesa, os serviços de contabilidade comunicarão aos órgãos da
+administração tributária as características da despesa e os valores pagos, conforme o disposto no art. 63 da Lei nº
+4.320, de 17 de março de 1964.
+
+[[CHAPTER: CAPÍTULO XI]]
+DA NULIDADE DOS CONTRATOS
+
+[[ARTICLE: 147]]
+Art. 147. Constatada irregularidade no procedimento licitatório ou na execução contratual, caso não seja
+possível o saneamento, a decisão sobre a suspensão da execução ou sobre a declaração de nulidade do contrato
+somente será adotada na hipótese em que se revelar medida de interesse público, com avaliação, entre outros, dos
+seguintes aspectos:
+I - impactos econômicos e financeiros decorrentes do atraso na fruição dos benefícios do objeto do contrato;
+II - riscos sociais, ambientais e à segurança da população local decorrentes do atraso na fruição dos benefícios
+do objeto do contrato;
+III - motivação social e ambiental do contrato;
+IV - custo da deterioração ou da perda das parcelas executadas;
+V - despesa necessária à preservação das instalações e dos serviços já executados;
+VI - despesa inerente à desmobilização e ao posterior retorno às atividades;
+VII - medidas efetivamente adotadas pelo titular do órgão ou entidade para o saneamento dos indícios de
+irregularidades apontados;
+VIII - custo total e estágio de execução física e financeira dos contratos, dos convênios, das obras ou das
+parcelas envolvidas;
+IX - fechamento de postos de trabalho diretos e indiretos em razão da paralisação;
+X - custo para realização de nova licitação ou celebração de novo contrato;
+XI - custo de oportunidade do capital durante o período de paralisação.
+Parágrafo único. Caso a paralisação ou anulação não se revele medida de interesse público, o poder público
+deverá optar pela continuidade do contrato e pela solução da irregularidade por meio de indenização por perdas e
+danos, sem prejuízo da apuração de responsabilidade e da aplicação de penalidades cabíveis.
+
+[[ARTICLE: 148]]
+Art. 148. A declaração de nulidade do contrato administrativo requererá análise prévia do interesse público
+envolvido, na forma do art. 147 desta Lei, e operará retroativamente, impedindo os efeitos jurídicos que o contrato
+deveria produzir ordinariamente e desconstituindo os já produzidos.
+[[PARAGRAPH: §1]]
+§ 1º Caso não seja possível o retorno à situação fática anterior, a nulidade será resolvida pela indenização por
+perdas e danos, sem prejuízo da apuração de responsabilidade e aplicação das penalidades cabíveis.
+[[PARAGRAPH: §2]]
+§ 2º Ao declarar a nulidade do contrato, a autoridade, com vistas à continuidade da atividade administrativa,
+poderá decidir que ela só tenha eficácia em momento futuro, suficiente para efetuar nova contratação, por prazo de
+até 6 (seis) meses, prorrogável uma única vez.
+
+[[ARTICLE: 149]]
+Art. 149. A nulidade não exonerará a Administração do dever de indenizar o contratado pelo que houver
+executado até a data em que for declarada ou tornada eficaz, bem como por outros prejuízos regularmente
+comprovados, desde que não lhe seja imputável, e será promovida a responsabilização de quem lhe tenha dado
+causa.
+
+[[ARTICLE: 150]]
+Art. 150. Nenhuma contratação será feita sem a caracterização adequada de seu objeto e sem a indicação dos
+créditos orçamentários para pagamento das parcelas contratuais vincendas no exercício em que for realizada a
+contratação, sob pena de nulidade do ato e de responsabilização de quem lhe tiver dado causa.
+
+[[CHAPTER: CAPÍTULO XII]]
+DOS MEIOS ALTERNATIVOS DE RESOLUÇÃO DE CONTROVÉRSIAS
+
+[[ARTICLE: 151]]
+Art. 151. Nas contratações regidas por esta Lei, poderão ser utilizados meios alternativos de prevenção e
+resolução de controvérsias, notadamente a conciliação, a mediação, o comitê de resolução de disputas e a
+arbitragem.
+Parágrafo único. Será aplicado o disposto no caput deste artigo às controvérsias relacionadas a direitos
+patrimoniais disponíveis, como as questões relacionadas ao restabelecimento do equilíbrio econômico-financeiro do
+contrato, ao inadimplemento de obrigações contratuais por quaisquer das partes e ao cálculo de indenizações.
+
+[[ARTICLE: 152]]
+Art. 152. A arbitragem será sempre de direito e observará o princípio da publicidade.
+
+[[ARTICLE: 153]]
+Art. 153. Os contratos poderão ser aditados para permitir a adoção dos meios alternativos de resolução de
+controvérsias.
+
+[[ARTICLE: 154]]
+Art. 154. O processo de escolha dos árbitros, dos colegiados arbitrais e dos comitês de resolução de disputas
+observará critérios isonômicos, técnicos e transparentes.

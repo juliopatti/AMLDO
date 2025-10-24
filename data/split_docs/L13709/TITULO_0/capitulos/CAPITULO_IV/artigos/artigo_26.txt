@@ -1,0 +1,27 @@
+Art. 26. O uso compartilhado de dados pessoais pelo Poder Público deve atender a finalidades específicas de
+execução de políticas públicas e atribuição legal pelos órgãos e pelas entidades públicas, respeitados os princípios de
+proteção de dados pessoais elencados no art. 6º desta Lei.
+[[PARAGRAPH: §1]]
+§ 1º É vedado ao Poder Público transferir a entidades privadas dados pessoais constantes de bases de dados a
+que tenha acesso, exceto:
+I - em casos de execução descentralizada de atividade pública que exija a transferência, exclusivamente para esse
+fim específico e determinado, observado o disposto na Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à
+Informação) ;
+II - (VETADO);
+III - nos casos em que os dados forem acessíveis publicamente, observadas as disposições desta Lei.
+III - se for indicado um encarregado para as operações de tratamento de dados pessoais, nos termos do art. 39;
+ Redação dada pela Medida Provisória nº 869, de 2018)
+III - nos casos em que os dados forem acessíveis publicamente, observadas as disposições desta Lei.
+IV - quando houver previsão legal ou a transferência for respaldada em contratos, convênios ou instrumentos
+congêneres; (Incluído pela Medida Provisória nº 869, de 2018)
+V - na hipótese de a transferência dos dados objetivar a prevenção de fraudes e irregularidades, ou proteger e
+resguardar a segurança e a integridade do titular dos dados; ou (Incluído pela Medida Provisória nº 869, de 2018)
+IV - quando houver previsão legal ou a transferência for respaldada em contratos, convênios ou instrumentos
+congêneres; ou (Incluído pela Lei nº 13.853, de 2019)
+V - na hipótese de a transferência dos dados objetivar exclusivamente a prevenção de fraudes e irregularidades,
+ou proteger e resguardar a segurança e a integridade do titular dos dados, desde que vedado o tratamento para
+outras finalidades. (Incluído pela Lei nº 13.853, de 2019) Vigência
+VI - nos casos em que os dados forem acessíveis publicamente, observadas as disposições desta Lei.
+(Incluído pela Medida Provisória nº 869, de 2018)
+[[PARAGRAPH: §2]]
+§ 2º Os contratos e convênios de que trata o § 1º deste artigo deverão ser comunicados à autoridade nacional.

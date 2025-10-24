@@ -1,0 +1,73 @@
+DA APRESENTAÇÃO DE PROPOSTAS E LANCES
+
+[[ARTICLE: 55]]
+Art. 55. Os prazos mínimos para apresentação de propostas e lances, contados a partir da data de divulgação
+do edital de licitação, são de:
+I - para aquisição de bens:
+a) 8 (oito) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto;
+b) 15 (quinze) dias úteis, nas hipóteses não abrangidas pela alínea “a” deste inciso;
+II - no caso de serviços e obras:
+a) 10 (dez) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto, no
+caso de serviços comuns e de obras e serviços comuns de engenharia;
+b) 25 (vinte e cinco) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior
+desconto, no caso de serviços especiais e de obras e serviços especiais de engenharia;
+c) 60 (sessenta) dias úteis, quando o regime de execução for de contratação integrada;
+d) 35 (trinta e cinco) dias úteis, quando o regime de execução for o de contratação semi-integrada ou nas
+hipóteses não abrangidas pelas alíneas “a”, “b” e “c” deste inciso;
+III - para licitação em que se adote o critério de julgamento de maior lance, 15 (quinze) dias úteis;
+IV - para licitação em que se adote o critério de julgamento de técnica e preço ou de melhor técnica ou
+conteúdo artístico, 35 (trinta e cinco) dias úteis. (Regulamento)
+[[PARAGRAPH: §1]]
+§ 1º Eventuais modificações no edital implicarão nova divulgação na mesma forma de sua divulgação inicial,
+além do cumprimento dos mesmos prazos dos atos e procedimentos originais, exceto quando a alteração não
+comprometer a formulação das propostas.
+[[PARAGRAPH: §2]]
+§ 2º Os prazos previstos neste artigo poderão, mediante decisão fundamentada, ser reduzidos até a metade
+nas licitações realizadas pelo Ministério da Saúde, no âmbito do Sistema Único de Saúde (SUS).
+
+[[ARTICLE: 56]]
+Art. 56. O modo de disputa poderá ser, isolada ou conjuntamente:
+I - aberto, hipótese em que os licitantes apresentarão suas propostas por meio de lances públicos e sucessivos,
+crescentes ou decrescentes;
+II - fechado, hipótese em que as propostas permanecerão em sigilo até a data e hora designadas para sua
+divulgação.
+[[PARAGRAPH: §1]]
+§ 1º A utilização isolada do modo de disputa fechado será vedada quando adotados os critérios de julgamento
+de menor preço ou de maior desconto.
+[[PARAGRAPH: §2]]
+§ 2º A utilização do modo de disputa aberto será vedada quando adotado o critério de julgamento de técnica e
+preço.
+[[PARAGRAPH: §3]]
+§ 3º Serão considerados intermediários os lances:
+I - iguais ou inferiores ao maior já ofertado, quando adotado o critério de julgamento de maior lance;
+II - iguais ou superiores ao menor já ofertado, quando adotados os demais critérios de julgamento.
+[[PARAGRAPH: §4]]
+§ 4º Após a definição da melhor proposta, se a diferença em relação à proposta classificada em segundo lugar
+for de pelo menos 5% (cinco por cento), a Administração poderá admitir o reinício da disputa aberta, nos termos
+estabelecidos no instrumento convocatório, para a definição das demais colocações.
+[[PARAGRAPH: §5]]
+§ 5º Nas licitações de obras ou serviços de engenharia, após o julgamento, o licitante vencedor deverá
+reelaborar e apresentar à Administração, por meio eletrônico, as planilhas com indicação dos quantitativos e dos
+custos unitários, bem como com detalhamento das Bonificações e Despesas Indiretas (BDI) e dos Encargos Sociais
+(ES), com os respectivos valores adequados ao valor final da proposta vencedora, admitida a utilização dos preços
+unitários, no caso de empreitada por preço global, empreitada integral, contratação semi-integrada e contratação
+integrada, exclusivamente para eventuais adequações indispensáveis no cronograma físico-financeiro e para balizar
+excepcional aditamento posterior do contrato.
+
+[[ARTICLE: 57]]
+Art. 57. O edital de licitação poderá estabelecer intervalo mínimo de diferença de valores entre os lances, que
+incidirá tanto em relação aos lances intermediários quanto em relação à proposta que cobrir a melhor oferta.
+
+[[ARTICLE: 58]]
+Art. 58. Poderá ser exigida, no momento da apresentação da proposta, a comprovação do recolhimento de
+quantia a título de garantia de proposta, como requisito de pré-habilitação.
+[[PARAGRAPH: §1]]
+§ 1º A garantia de proposta não poderá ser superior a 1% (um por cento) do valor estimado para a contratação.
+[[PARAGRAPH: §2]]
+§ 2º A garantia de proposta será devolvida aos licitantes no prazo de 10 (dez) dias úteis, contado da assinatura
+do contrato ou da data em que for declarada fracassada a licitação.
+[[PARAGRAPH: §3]]
+§ 3º Implicará execução do valor integral da garantia de proposta a recusa em assinar o contrato ou a não
+apresentação dos documentos para a contratação.
+[[PARAGRAPH: §4]]
+§ 4º A garantia de proposta poderá ser prestada nas modalidades de que trata o § 1º do art. 96 desta Lei.

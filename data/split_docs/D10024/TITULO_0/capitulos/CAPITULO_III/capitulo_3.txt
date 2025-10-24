@@ -1,0 +1,23 @@
+DO ACESSO AO SISTEMA ELETRÔNICO
+Credenciamento
+
+[[ARTICLE: 9]]
+Art. 9º A autoridade competente do órgão ou da entidade promotora da licitação, o pregoeiro, os membros da
+equipe de apoio e os licitantes que participarem do pregão, na forma eletrônica, serão previamente credenciados,
+perante o provedor do sistema eletrônico.
+[[PARAGRAPH: §1]]
+§ 1º O credenciamento para acesso ao sistema ocorrerá pela atribuição de chave de identificação e de senha
+pessoal e intransferível.
+[[PARAGRAPH: §2]]
+§ 2º Caberá à autoridade competente do órgão ou da entidade promotora da licitação solicitar, junto ao
+provedor do sistema, o seu credenciamento, o do pregoeiro e o dos membros da equipe de apoio.
+Licitante
+
+[[ARTICLE: 10]]
+Art. 10. Na hipótese de pregão promovido por órgão ou entidade integrante do Sisg, o credenciamento do
+licitante e sua manutenção dependerão de registro prévio e atualizado no Sicaf.
+
+[[ARTICLE: 11]]
+Art. 11. O credenciamento no Sicaf permite a participação dos interessados em qualquer pregão, na forma
+eletrônica, exceto quando o seu cadastro no Sicaf tenha sido inativado ou excluído por solicitação do credenciado ou
+por determinação legal.

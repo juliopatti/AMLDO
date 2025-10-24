@@ -1,0 +1,424 @@
+DISPOSIÇÕES PRELIMINARES
+
+[[CHAPTER: CAPÍTULO I]]
+DO ÂMBITO DE APLICAÇÃO DESTA LEI
+
+[[ARTICLE: 1]]
+Art. 1º Esta Lei estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas,
+autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, e abrange:
+I - os órgãos dos Poderes Legislativo e Judiciário da União, dos Estados e do Distrito Federal e os órgãos do
+Poder Legislativo dos Municípios, quando no desempenho de função administrativa;
+II - os fundos especiais e as demais entidades controladas direta ou indiretamente pela Administração Pública.
+[[PARAGRAPH: §1]]
+§ 1º Não são abrangidas por esta Lei as empresas públicas, as sociedades de economia mista e as suas
+subsidiárias, regidas pela Lei nº 13.303, de 30 de junho de 2016, ressalvado o disposto no art. 178 desta Lei.
+[[PARAGRAPH: §2]]
+§ 2º As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às
+peculiaridades locais e aos princípios básicos estabelecidos nesta Lei, na forma de regulamentação específica a ser
+editada por ministro de Estado.
+[[PARAGRAPH: §3]]
+§ 3º Nas licitações e contratações que envolvam recursos provenientes de empréstimo ou doação oriundos de
+agência oficial de cooperação estrangeira ou de organismo financeiro de que o Brasil seja parte, podem ser admitidas:
+I - condições decorrentes de acordos internacionais aprovados pelo Congresso Nacional e ratificados pelo
+Presidente da República;
+II - condições peculiares à seleção e à contratação constantes de normas e procedimentos das agências ou dos
+organismos, desde que:
+a) sejam exigidas para a obtenção do empréstimo ou doação;
+b) não conflitem com os princípios constitucionais em vigor;
+c) sejam indicadas no respectivo contrato de empréstimo ou doação e tenham sido objeto de parecer favorável
+do órgão jurídico do contratante do financiamento previamente à celebração do referido contrato;
+d) (VETADO).
+[[PARAGRAPH: §4]]
+§ 4º A documentação encaminhada ao Senado Federal para autorização do empréstimo de que trata o § 3º
+deste artigo deverá fazer referência às condições contratuais que incidam na hipótese do referido parágrafo.
+[[PARAGRAPH: §5]]
+§ 5º As contratações relativas à gestão, direta e indireta, das reservas internacionais do País, inclusive as de
+serviços conexos ou acessórios a essa atividade, serão disciplinadas em ato normativo próprio do Banco Central do
+Brasil, assegurada a observância dos princípios estabelecidos no caput do art. 37 da Constituição Federal.
+
+[[ARTICLE: 2]]
+Art. 2º Esta Lei aplica-se a:
+I - alienação e concessão de direito real de uso de bens;
+II - compra, inclusive por encomenda;
+III - locação;
+IV - concessão e permissão de uso de bens públicos;
+V - prestação de serviços, inclusive os técnico-profissionais especializados;
+VI - obras e serviços de arquitetura e engenharia;
+VII - contratações de tecnologia da informação e de comunicação.
+
+[[ARTICLE: 3]]
+Art. 3º Não se subordinam ao regime desta Lei:
+I - contratos que tenham por objeto operação de crédito, interno ou externo, e gestão de dívida pública,
+incluídas as contratações de agente financeiro e a concessão de garantia relacionadas a esses contratos;
+II - contratações sujeitas a normas previstas em legislação própria.
+
+[[ARTICLE: 4]]
+Art. 4º Aplicam-se às licitações e contratos disciplinados por esta Lei as disposições constantes dos arts. 42 a
+49 da Lei Complementar nº 123, de 14 de dezembro de 2006.
+[[PARAGRAPH: §1]]
+§ 1º As disposições a que se refere o caput deste artigo não são aplicadas:
+I - no caso de licitação para aquisição de bens ou contratação de serviços em geral, ao item cujo valor estimado
+for superior à receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte;
+II - no caso de contratação de obras e serviços de engenharia, às licitações cujo valor estimado for superior à
+receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte.
+[[PARAGRAPH: §2]]
+§ 2º A obtenção de benefícios a que se refere o caput deste artigo fica limitada às microempresas e às
+empresas de pequeno porte que, no ano-calendário de realização da licitação, ainda não tenham celebrado contratos
+com a Administração Pública cujos valores somados extrapolem a receita bruta máxima admitida para fins de
+enquadramento como empresa de pequeno porte, devendo o órgão ou entidade exigir do licitante declaração de
+observância desse limite na licitação.
+[[PARAGRAPH: §3]]
+§ 3º Nas contratações com prazo de vigência superior a 1 (um) ano, será considerado o valor anual do contrato
+na aplicação dos limites previstos nos §§ 1º e 2º deste artigo.
+
+[[CHAPTER: CAPÍTULO II]]
+DOS PRINCÍPIOS
+
+[[ARTICLE: 5]]
+Art. 5º Na aplicação desta Lei, serão observados os princípios da legalidade, da impessoalidade, da moralidade,
+da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade, do planejamento, da
+transparência, da eficácia, da segregação de funções, da motivação, da vinculação ao edital, do julgamento objetivo,
+da segurança jurídica, da razoabilidade, da competitividade, da proporcionalidade, da celeridade, da economicidade e
+do desenvolvimento nacional sustentável, assim como as disposições do Decreto-Lei nº 4.657, de 4 de setembro de
+1942 (Lei de Introdução às Normas do Direito Brasileiro).
+
+[[CHAPTER: CAPÍTULO III]]
+DAS DEFINIÇÕES
+
+[[ARTICLE: 6]]
+Art. 6º Para os fins desta Lei, consideram-se:
+I - órgão: unidade de atuação integrante da estrutura da Administração Pública;
+II - entidade: unidade de atuação dotada de personalidade jurídica;
+III - Administração Pública: administração direta e indireta da União, dos Estados, do Distrito Federal e dos
+Municípios, inclusive as entidades com personalidade jurídica de direito privado sob controle do poder público e as
+fundações por ele instituídas ou mantidas;
+IV - Administração: órgão ou entidade por meio do qual a Administração Pública atua;
+V - agente público: indivíduo que, em virtude de eleição, nomeação, designação, contratação ou qualquer outra
+forma de investidura ou vínculo, exerce mandato, cargo, emprego ou função em pessoa jurídica integrante da
+Administração Pública;
+VI - autoridade: agente público dotado de poder de decisão;
+VII - contratante: pessoa jurídica integrante da Administração Pública responsável pela contratação;
+VIII - contratado: pessoa física ou jurídica, ou consórcio de pessoas jurídicas, signatária de contrato com a
+Administração;
+IX - licitante: pessoa física ou jurídica, ou consórcio de pessoas jurídicas, que participa ou manifesta a intenção
+de participar de processo licitatório, sendo-lhe equiparável, para os fins desta Lei, o fornecedor ou o prestador de
+serviço que, em atendimento à solicitação da Administração, oferece proposta;
+X - compra: aquisição remunerada de bens para fornecimento de uma só vez ou parceladamente, considerada
+imediata aquela com prazo de entrega de até 30 (trinta) dias da ordem de fornecimento;
+XI - serviço: atividade ou conjunto de atividades destinadas a obter determinada utilidade, intelectual ou
+material, de interesse da Administração;
+XII - obra: toda atividade estabelecida, por força de lei, como privativa das profissões de arquiteto e engenheiro
+que implica intervenção no meio ambiente por meio de um conjunto harmônico de ações que, agregadas, formam um
+todo que inova o espaço físico da natureza ou acarreta alteração substancial das características originais de bem
+imóvel;
+XIII - bens e serviços comuns: aqueles cujos padrões de desempenho e qualidade podem ser objetivamente
+definidos pelo edital, por meio de especificações usuais de mercado;
+XIV - bens e serviços especiais: aqueles que, por sua alta heterogeneidade ou complexidade, não podem ser
+descritos na forma do inciso XIII do caput deste artigo, exigida justificativa prévia do contratante;
+XV - serviços e fornecimentos contínuos: serviços contratados e compras realizadas pela Administração Pública
+para a manutenção da atividade administrativa, decorrentes de necessidades permanentes ou prolongadas;
+XVI - serviços contínuos com regime de dedicação exclusiva de mão de obra: aqueles cujo modelo de execução
+contratual exige, entre outros requisitos, que:
+a) os empregados do contratado fiquem à disposição nas dependências do contratante para a prestação dos
+serviços;
+b) o contratado não compartilhe os recursos humanos e materiais disponíveis de uma contratação para
+execução simultânea de outros contratos;
+c) o contratado possibilite a fiscalização pelo contratante quanto à distribuição, controle e supervisão dos
+recursos humanos alocados aos seus contratos;
+XVII - serviços não contínuos ou contratados por escopo: aqueles que impõem ao contratado o dever de
+realizar a prestação de um serviço específico em período predeterminado, podendo ser prorrogado, desde que
+justificadamente, pelo prazo necessário à conclusão do objeto;
+XVIII - serviços técnicos especializados de natureza predominantemente intelectual: aqueles realizados em
+trabalhos relativos a:
+a) estudos técnicos, planejamentos, projetos básicos e projetos executivos;
+b) pareceres, perícias e avaliações em geral;
+c) assessorias e consultorias técnicas e auditorias financeiras e tributárias;
+d) fiscalização, supervisão e gerenciamento de obras e serviços;
+e) patrocínio ou defesa de causas judiciais e administrativas;
+f) treinamento e aperfeiçoamento de pessoal;
+g) restauração de obras de arte e de bens de valor histórico;
+h) controles de qualidade e tecnológico, análises, testes e ensaios de campo e laboratoriais, instrumentação e
+monitoramento de parâmetros específicos de obras e do meio ambiente e demais serviços de engenharia que se
+enquadrem na definição deste inciso;
+XIX - notória especialização: qualidade de profissional ou de empresa cujo conceito, no campo de sua
+especialidade, decorrente de desempenho anterior, estudos, experiência, publicações, organização, aparelhamento,
+equipe técnica ou outros requisitos relacionados com suas atividades, permite inferir que o seu trabalho é essencial e
+reconhecidamente adequado à plena satisfação do objeto do contrato;
+XX - estudo técnico preliminar: documento constitutivo da primeira etapa do planejamento de uma contratação
+que caracteriza o interesse público envolvido e a sua melhor solução e dá base ao anteprojeto, ao termo de referência
+ou ao projeto básico a serem elaborados caso se conclua pela viabilidade da contratação;
+XXI - serviço de engenharia: toda atividade ou conjunto de atividades destinadas a obter determinada utilidade,
+intelectual ou material, de interesse para a Administração e que, não enquadradas no conceito de obra a que se refere
+o inciso XII do caput deste artigo, são estabelecidas, por força de lei, como privativas das profissões de arquiteto e
+engenheiro ou de técnicos especializados, que compreendem:
+a) serviço comum de engenharia: todo serviço de engenharia que tem por objeto ações, objetivamente
+padronizáveis em termos de desempenho e qualidade, de manutenção, de adequação e de adaptação de bens
+móveis e imóveis, com preservação das características originais dos bens;
+b) serviço especial de engenharia: aquele que, por sua alta heterogeneidade ou complexidade, não pode se
+enquadrar na definição constante da alínea “a” deste inciso;
+XXII - obras, serviços e fornecimentos de grande vulto: aqueles cujo valor estimado supera R$ 200.000.000,00
+(duzentos milhões de reais); (Vide Decreto nº 10.922, de 2021) (Vigência) (Vide Decreto nº 11.317, de
+2022) Vigência (Vide Decreto nº 11.871, de 2023) Vigência (Vide Decreto nº 12.343, de 2024) Vigência
+XXIII - termo de referência: documento necessário para a contratação de bens e serviços, que deve conter os
+seguintes parâmetros e elementos descritivos:
+a) definição do objeto, incluídos sua natureza, os quantitativos, o prazo do contrato e, se for o caso, a
+possibilidade de sua prorrogação;
+b) fundamentação da contratação, que consiste na referência aos estudos técnicos preliminares
+correspondentes ou, quando não for possível divulgar esses estudos, no extrato das partes que não contiverem
+informações sigilosas;
+c) descrição da solução como um todo, considerado todo o ciclo de vida do objeto;
+d) requisitos da contratação;
+e) modelo de execução do objeto, que consiste na definição de como o contrato deverá produzir os resultados
+pretendidos desde o seu início até o seu encerramento;
+f) modelo de gestão do contrato, que descreve como a execução do objeto será acompanhada e fiscalizada
+pelo órgão ou entidade;
+g) critérios de medição e de pagamento;
+h) forma e critérios de seleção do fornecedor;
+i) estimativas do valor da contratação, acompanhadas dos preços unitários referenciais, das memórias de
+cálculo e dos documentos que lhe dão suporte, com os parâmetros utilizados para a obtenção dos preços e para os
+respectivos cálculos, que devem constar de documento separado e classificado;
+j) adequação orçamentária;
+XXIV - anteprojeto: peça técnica com todos os subsídios necessários à elaboração do projeto básico, que deve
+conter, no mínimo, os seguintes elementos:
+a) demonstração e justificativa do programa de necessidades, avaliação de demanda do público-alvo,
+motivação técnico-econômico-social do empreendimento, visão global dos investimentos e definições relacionadas ao
+nível de serviço desejado;
+b) condições de solidez, de segurança e de durabilidade;
+c) prazo de entrega;
+d) estética do projeto arquitetônico, traçado geométrico e/ou projeto da área de influência, quando cabível;
+e) parâmetros de adequação ao interesse público, de economia na utilização, de facilidade na execução, de
+impacto ambiental e de acessibilidade;
+f) proposta de concepção da obra ou do serviço de engenharia;
+g) projetos anteriores ou estudos preliminares que embasaram a concepção proposta;
+h) levantamento topográfico e cadastral;
+i) pareceres de sondagem;
+j) memorial descritivo dos elementos da edificação, dos componentes construtivos e dos materiais de
+construção, de forma a estabelecer padrões mínimos para a contratação;
+XXV - projeto básico: conjunto de elementos necessários e suficientes, com nível de precisão adequado para
+definir e dimensionar a obra ou o serviço, ou o complexo de obras ou de serviços objeto da licitação, elaborado com
+base nas indicações dos estudos técnicos preliminares, que assegure a viabilidade técnica e o adequado tratamento
+do impacto ambiental do empreendimento e que possibilite a avaliação do custo da obra e a definição dos métodos e
+do prazo de execução, devendo conter os seguintes elementos:
+a) levantamentos topográficos e cadastrais, sondagens e ensaios geotécnicos, ensaios e análises laboratoriais,
+estudos socioambientais e demais dados e levantamentos necessários para execução da solução escolhida;
+b) soluções técnicas globais e localizadas, suficientemente detalhadas, de forma a evitar, por ocasião da
+elaboração do projeto executivo e da realização das obras e montagem, a necessidade de reformulações ou variantes
+quanto à qualidade, ao preço e ao prazo inicialmente definidos;
+c) identificação dos tipos de serviços a executar e dos materiais e equipamentos a incorporar à obra, bem como
+das suas especificações, de modo a assegurar os melhores resultados para o empreendimento e a segurança
+executiva na utilização do objeto, para os fins a que se destina, considerados os riscos e os perigos identificáveis, sem
+frustrar o caráter competitivo para a sua execução;
+d) informações que possibilitem o estudo e a definição de métodos construtivos, de instalações provisórias e de
+condições organizacionais para a obra, sem frustrar o caráter competitivo para a sua execução;
+e) subsídios para montagem do plano de licitação e gestão da obra, compreendidos a sua programação, a
+estratégia de suprimentos, as normas de fiscalização e outros dados necessários em cada caso;
+f) orçamento detalhado do custo global da obra, fundamentado em quantitativos de serviços e fornecimentos
+propriamente avaliados, obrigatório exclusivamente para os regimes de execução previstos nos incisos I, II, III, IV e VII
+do caput do art. 46 desta Lei;
+XXVI - projeto executivo: conjunto de elementos necessários e suficientes à execução completa da obra, com o
+detalhamento das soluções previstas no projeto básico, a identificação de serviços, de materiais e de equipamentos a
+serem incorporados à obra, bem como suas especificações técnicas, de acordo com as normas técnicas pertinentes;
+XXVII - matriz de riscos: cláusula contratual definidora de riscos e de responsabilidades entre as partes e
+caracterizadora do equilíbrio econômico-financeiro inicial do contrato, em termos de ônus financeiro decorrente de
+eventos supervenientes à contratação, contendo, no mínimo, as seguintes informações:
+a) listagem de possíveis eventos supervenientes à assinatura do contrato que possam causar impacto em seu
+equilíbrio econômico-financeiro e previsão de eventual necessidade de prolação de termo aditivo por ocasião de sua
+ocorrência;
+b) no caso de obrigações de resultado, estabelecimento das frações do objeto com relação às quais haverá
+liberdade para os contratados inovarem em soluções metodológicas ou tecnológicas, em termos de modificação das
+soluções previamente delineadas no anteprojeto ou no projeto básico;
+c) no caso de obrigações de meio, estabelecimento preciso das frações do objeto com relação às quais não
+haverá liberdade para os contratados inovarem em soluções metodológicas ou tecnológicas, devendo haver obrigação
+de aderência entre a execução e a solução predefinida no anteprojeto ou no projeto básico, consideradas as
+características do regime de execução no caso de obras e serviços de engenharia;
+XXVIII - empreitada por preço unitário: contratação da execução da obra ou do serviço por preço certo de
+unidades determinadas;
+XXIX - empreitada por preço global: contratação da execução da obra ou do serviço por preço certo e total;
+XXX - empreitada integral: contratação de empreendimento em sua integralidade, compreendida a totalidade
+das etapas de obras, serviços e instalações necessárias, sob inteira responsabilidade do contratado até sua entrega
+ao contratante em condições de entrada em operação, com características adequadas às finalidades para as quais foi
+contratado e atendidos os requisitos técnicos e legais para sua utilização com segurança estrutural e operacional;
+XXXI - contratação por tarefa: regime de contratação de mão de obra para pequenos trabalhos por preço certo,
+com ou sem fornecimento de materiais;
+XXXII - contratação integrada: regime de contratação de obras e serviços de engenharia em que o contratado é
+responsável por elaborar e desenvolver os projetos básico e executivo, executar obras e serviços de engenharia,
+fornecer bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as demais operações
+necessárias e suficientes para a entrega final do objeto;
+XXXIII - contratação semi-integrada: regime de contratação de obras e serviços de engenharia em que o
+contratado é responsável por elaborar e desenvolver o projeto executivo, executar obras e serviços de engenharia,
+fornecer bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as demais operações
+necessárias e suficientes para a entrega final do objeto;
+XXXIV - fornecimento e prestação de serviço associado: regime de contratação em que, além do fornecimento
+do objeto, o contratado responsabiliza-se por sua operação, manutenção ou ambas, por tempo determinado;
+XXXV - licitação internacional: licitação processada em território nacional na qual é admitida a participação de
+licitantes estrangeiros, com a possibilidade de cotação de preços em moeda estrangeira, ou licitação na qual o objeto
+contratual pode ou deve ser executado no todo ou em parte em território estrangeiro;
+XXXVI - serviço nacional: serviço prestado em território nacional, nas condições estabelecidas pelo Poder
+Executivo federal;
+XXXVII - produto manufaturado nacional: produto manufaturado produzido no território nacional de acordo com
+o processo produtivo básico ou com as regras de origem estabelecidas pelo Poder Executivo federal;
+XXXVIII - concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e
+serviços comuns e especiais de engenharia, cujo critério de julgamento poderá ser:
+a) menor preço;
+b) melhor técnica ou conteúdo artístico;
+c) técnica e preço;
+d) maior retorno econômico;
+e) maior desconto;
+XXXIX - concurso: modalidade de licitação para escolha de trabalho técnico, científico ou artístico, cujo critério
+de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao
+vencedor;
+XL - leilão: modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou
+legalmente apreendidos a quem oferecer o maior lance;
+XLI - pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de
+julgamento poderá ser o de menor preço ou o de maior desconto;
+XLII - diálogo competitivo: modalidade de licitação para contratação de obras, serviços e compras em que a
+Administração Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o
+intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes
+apresentar proposta final após o encerramento dos diálogos;
+XLIII - credenciamento: processo administrativo de chamamento público em que a Administração Pública
+convoca interessados em prestar serviços ou fornecer bens para que, preenchidos os requisitos necessários, se
+credenciem no órgão ou na entidade para executar o objeto quando convocados;
+XLIV - pré-qualificação: procedimento seletivo prévio à licitação, convocado por meio de edital, destinado à
+análise das condições de habilitação, total ou parcial, dos interessados ou do objeto;
+XLV - sistema de registro de preços: conjunto de procedimentos para realização, mediante contratação direta ou
+licitação nas modalidades pregão ou concorrência, de registro formal de preços relativos a prestação de serviços, a
+obras e a aquisição e locação de bens para contratações futuras;
+XLVI - ata de registro de preços: documento vinculativo e obrigacional, com característica de compromisso para
+futura contratação, no qual são registrados o objeto, os preços, os fornecedores, os órgãos participantes e as
+condições a serem praticadas, conforme as disposições contidas no edital da licitação, no aviso ou instrumento de
+contratação direta e nas propostas apresentadas;
+XLVII - órgão ou entidade gerenciadora: órgão ou entidade da Administração Pública responsável pela
+condução do conjunto de procedimentos para registro de preços e pelo gerenciamento da ata de registro de preços
+dele decorrente;
+XLVIII - órgão ou entidade participante: órgão ou entidade da Administração Pública que participa dos
+procedimentos iniciais da contratação para registro de preços e integra a ata de registro de preços;
+XLIX - órgão ou entidade não participante: órgão ou entidade da Administração Pública que não participa dos
+procedimentos iniciais da licitação para registro de preços e não integra a ata de registro de preços;
+L - comissão de contratação: conjunto de agentes públicos indicados pela Administração, em caráter
+permanente ou especial, com a função de receber, examinar e julgar documentos relativos às licitações e aos
+procedimentos auxiliares;
+LI - catálogo eletrônico de padronização de compras, serviços e obras: sistema informatizado, de
+gerenciamento centralizado e com indicação de preços, destinado a permitir a padronização de itens a serem
+adquiridos pela Administração Pública e que estarão disponíveis para a licitação;
+LII - sítio eletrônico oficial: sítio da internet, certificado digitalmente por autoridade certificadora, no qual o ente
+federativo divulga de forma centralizada as informações e os serviços de governo digital dos seus órgãos e entidades;
+LIII - contrato de eficiência: contrato cujo objeto é a prestação de serviços, que pode incluir a realização de
+obras e o fornecimento de bens, com o objetivo de proporcionar economia ao contratante, na forma de redução de
+despesas correntes, remunerado o contratado com base em percentual da economia gerada;
+LIV - seguro-garantia: seguro que garante o fiel cumprimento das obrigações assumidas pelo contratado;
+LV - produtos para pesquisa e desenvolvimento: bens, insumos, serviços e obras necessários para atividade de
+pesquisa científica e tecnológica, desenvolvimento de tecnologia ou inovação tecnológica, discriminados em projeto
+de pesquisa;
+LVI - sobrepreço: preço orçado para licitação ou contratado em valor expressivamente superior aos preços
+referenciais de mercado, seja de apenas 1 (um) item, se a licitação ou a contratação for por preços unitários de
+serviço, seja do valor global do objeto, se a licitação ou a contratação for por tarefa, empreitada por preço global ou
+empreitada integral, semi-integrada ou integrada;
+LVII - superfaturamento: dano provocado ao patrimônio da Administração, caracterizado, entre outras situações,
+por:
+a) medição de quantidades superiores às efetivamente executadas ou fornecidas;
+b) deficiência na execução de obras e de serviços de engenharia que resulte em diminuição da sua qualidade,
+vida útil ou segurança;
+c) alterações no orçamento de obras e de serviços de engenharia que causem desequilíbrio econômicofinanceiro do contrato em favor do contratado;
+d) outras alterações de cláusulas financeiras que gerem recebimentos contratuais antecipados, distorção do
+cronograma físico-financeiro, prorrogação injustificada do prazo contratual com custos adicionais para a Administração
+ou reajuste irregular de preços;
+LVIII - reajustamento em sentido estrito: forma de manutenção do equilíbrio econômico-financeiro de contrato
+consistente na aplicação do índice de correção monetária previsto no contrato, que deve retratar a variação efetiva do
+custo de produção, admitida a adoção de índices específicos ou setoriais;
+LIX - repactuação: forma de manutenção do equilíbrio econômico-financeiro de contrato utilizada para serviços
+contínuos com regime de dedicação exclusiva de mão de obra ou predominância de mão de obra, por meio da análise
+da variação dos custos contratuais, devendo estar prevista no edital com data vinculada à apresentação das
+propostas, para os custos decorrentes do mercado, e com data vinculada ao acordo, à convenção coletiva ou ao
+dissídio coletivo ao qual o orçamento esteja vinculado, para os custos decorrentes da mão de obra;
+LX - agente de contratação: pessoa designada pela autoridade competente, entre servidores efetivos ou
+empregados públicos dos quadros permanentes da Administração Pública, para tomar decisões, acompanhar o
+trâmite da licitação, dar impulso ao procedimento licitatório e executar quaisquer outras atividades necessárias ao bom
+andamento do certame até a homologação.
+
+[[CHAPTER: CAPÍTULO IV]]
+DOS AGENTES PÚBLICOS
+
+[[ARTICLE: 7]]
+Art. 7º Caberá à autoridade máxima do órgão ou da entidade, ou a quem as normas de organização
+administrativa indicarem, promover gestão por competências e designar agentes públicos para o desempenho das
+funções essenciais à execução desta Lei que preencham os seguintes requisitos:
+I - sejam, preferencialmente, servidor efetivo ou empregado público dos quadros permanentes da Administração
+Pública;
+II - tenham atribuições relacionadas a licitações e contratos ou possuam formação compatível ou qualificação
+atestada por certificação profissional emitida por escola de governo criada e mantida pelo poder público; e
+III - não sejam cônjuge ou companheiro de licitantes ou contratados habituais da Administração nem tenham
+com eles vínculo de parentesco, colateral ou por afinidade, até o terceiro grau, ou de natureza técnica, comercial,
+econômica, financeira, trabalhista e civil.
+[[PARAGRAPH: §1]]
+§ 1º A autoridade referida no caput deste artigo deverá observar o princípio da segregação de funções, vedada
+a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a
+reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação.
+[[PARAGRAPH: §2]]
+§ 2º O disposto no caput e no § 1º deste artigo, inclusive os requisitos estabelecidos, também se aplica aos
+órgãos de assessoramento jurídico e de controle interno da Administração.
+
+[[ARTICLE: 8]]
+Art. 8º A licitação será conduzida por agente de contratação, pessoa designada pela autoridade competente,
+entre servidores efetivos ou empregados públicos dos quadros permanentes da Administração Pública, para tomar
+decisões, acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório e executar quaisquer outras
+atividades necessárias ao bom andamento do certame até a homologação.
+[[PARAGRAPH: §1]]
+§ 1º O agente de contratação será auxiliado por equipe de apoio e responderá individualmente pelos atos que
+praticar, salvo quando induzido a erro pela atuação da equipe.
+[[PARAGRAPH: §2]]
+§ 2º Em licitação que envolva bens ou serviços especiais, desde que observados os requisitos estabelecidos no
+
+[[ARTICLE: 7]]
+art. 7º desta Lei, o agente de contratação poderá ser substituído por comissão de contratação formada por, no mínimo,
+3 (três) membros, que responderão solidariamente por todos os atos praticados pela comissão, ressalvado o membro
+que expressar posição individual divergente fundamentada e registrada em ata lavrada na reunião em que houver sido
+tomada a decisão.
+[[PARAGRAPH: §3]]
+§ 3º As regras relativas à atuação do agente de contratação e da equipe de apoio, ao funcionamento da
+comissão de contratação e à atuação de fiscais e gestores de contratos de que trata esta Lei serão estabelecidas em
+regulamento, e deverá ser prevista a possibilidade de eles contarem com o apoio dos órgãos de assessoramento
+jurídico e de controle interno para o desempenho das funções essenciais à execução do disposto nesta Lei.
+(Regulamento) Vigência
+[[PARAGRAPH: §4]]
+§ 4º Em licitação que envolva bens ou serviços especiais cujo objeto não seja rotineiramente contratado pela
+Administração, poderá ser contratado, por prazo determinado, serviço de empresa ou de profissional especializado
+para assessorar os agentes públicos responsáveis pela condução da licitação.
+[[PARAGRAPH: §5]]
+§ 5º Em licitação na modalidade pregão, o agente responsável pela condução do certame será designado
+pregoeiro.
+
+[[ARTICLE: 9]]
+Art. 9º É vedado ao agente público designado para atuar na área de licitações e contratos, ressalvados os
+casos previstos em lei:
+I - admitir, prever, incluir ou tolerar, nos atos que praticar, situações que:
+a) comprometam, restrinjam ou frustrem o caráter competitivo do processo licitatório, inclusive nos casos de
+participação de sociedades cooperativas;
+b) estabeleçam preferências ou distinções em razão da naturalidade, da sede ou do domicílio dos licitantes;
+c) sejam impertinentes ou irrelevantes para o objeto específico do contrato;
+II - estabelecer tratamento diferenciado de natureza comercial, legal, trabalhista, previdenciária ou qualquer
+outra entre empresas brasileiras e estrangeiras, inclusive no que se refere a moeda, modalidade e local de
+pagamento, mesmo quando envolvido financiamento de agência internacional;
+III - opor resistência injustificada ao andamento dos processos e, indevidamente, retardar ou deixar de praticar
+ato de ofício, ou praticá-lo contra disposição expressa em lei.
+[[PARAGRAPH: §1]]
+§ 1º Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente público de
+órgão ou entidade licitante ou contratante, devendo ser observadas as situações que possam configurar conflito de
+interesses no exercício ou após o exercício do cargo ou emprego, nos termos da legislação que disciplina a matéria.
+[[PARAGRAPH: §2]]
+§ 2º As vedações de que trata este artigo estendem-se a terceiro que auxilie a condução da contratação na
+qualidade de integrante de equipe de apoio, profissional especializado ou funcionário ou representante de empresa
+que preste assessoria técnica.
+
+[[ARTICLE: 10]]
+Art. 10. Se as autoridades competentes e os servidores públicos que tiverem participado dos procedimentos
+relacionados às licitações e aos contratos de que trata esta Lei precisarem defender-se nas esferas administrativa,
+controladora ou judicial em razão de ato praticado com estrita observância de orientação constante em parecer
+jurídico elaborado na forma do § 1º do art. 53 desta Lei, a advocacia pública promoverá, a critério do agente público,
+sua representação judicial ou extrajudicial.
+[[PARAGRAPH: §1]]
+§ 1º Não se aplica o disposto no caput deste artigo quando:
+I - (VETADO);
+II - provas da prática de atos ilícitos dolosos constarem nos autos do processo administrativo ou judicial.
+[[PARAGRAPH: §2]]
+§ 2º Aplica-se o disposto no caput deste artigo inclusive na hipótese de o agente público não mais ocupar o
+cargo, emprego ou função em que foi praticado o ato questionado.

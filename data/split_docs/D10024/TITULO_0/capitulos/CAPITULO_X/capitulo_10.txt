@@ -1,0 +1,74 @@
+DA HABILITAÇÃO
+Documentação obrigatória
+
+[[ARTICLE: 40]]
+Art. 40. Para habilitação dos licitantes, será exigida, exclusivamente, a documentação relativa:
+I - à habilitação jurídica;
+II - à qualificação técnica;
+III - à qualificação econômico-financeira;
+IV - à regularidade fiscal e trabalhista;
+V - à regularidade fiscal perante as Fazendas Públicas estaduais, distrital e municipais, quando necessário; e
+VI - ao cumprimento do disposto no inciso XXXIII do caput do art. 7º da Constituição e no inciso XVIII do caput
+do art. 78 da Lei nº 8.666, de 1993.
+Parágrafo único. A documentação exigida para atender ao disposto nos incisos I, III, IV e V do caput poderá
+ser substituída pelo registro cadastral no Sicaf e em sistemas semelhantes mantidos pelos Estados, pelo Distrito
+Federal ou pelos Municípios, quando a licitação for realizada por esses entes federativos.
+
+[[ARTICLE: 41]]
+Art. 41. Quando permitida a participação de empresas estrangeiras na licitação, as exigências de habilitação
+serão atendidas mediante documentos equivalentes, inicialmente apresentados com tradução livre.
+Parágrafo único. Na hipótese de o licitante vencedor ser estrangeiro, para fins de assinatura do contrato ou da
+ata de registro de preços, os documentos de que trata o caput serão traduzidos por tradutor juramentado no País e
+apostilados nos termos do dispostos no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro que venha a substituílo, ou consularizados pelos respectivos consulados ou embaixadas.
+
+[[ARTICLE: 42]]
+Art. 42. Quando permitida a participação de consórcio de empresas, serão exigidas:
+I - a comprovação da existência de compromisso público ou particular de constituição de consórcio, com
+indicação da empresa líder, que atenderá às condições de liderança estabelecidas no edital e representará as
+consorciadas perante a União;
+II - a apresentação da documentação de habilitação especificada no edital por empresa consorciada;
+III - a comprovação da capacidade técnica do consórcio pelo somatório dos quantitativos de cada empresa
+consorciada, na forma estabelecida no edital;
+IV - a demonstração, por cada empresa consorciada, do atendimento aos índices contábeis definidos no edital,
+para fins de qualificação econômico-financeira;
+V - a responsabilidade solidária das empresas consorciadas pelas obrigações do consórcio, nas etapas da
+licitação e durante a vigência do contrato;
+VI - a obrigatoriedade de liderança por empresa brasileira no consórcio formado por empresas brasileiras e
+estrangeiras, observado o disposto no inciso I; e
+VII - a constituição e o registro do consórcio antes da celebração do contrato.
+Parágrafo único. Fica vedada a participação de empresa consorciada, na mesma licitação, por meio de mais de
+um consórcio ou isoladamente.
+Procedimentos de verificação
+
+[[ARTICLE: 43]]
+Art. 43. A habilitação dos licitantes será verificada por meio do Sicaf, nos documentos por ele abrangidos,
+quando os procedimentos licitatórios forem realizados por órgãos ou entidades integrantes do Sisg ou por aqueles que
+aderirem ao Sicaf.
+[[PARAGRAPH: §1]]
+§ 1º Os documentos exigidos para habilitação que não estejam contemplados no Sicaf serão enviados nos
+termos do disposto no art. 26.
+[[PARAGRAPH: §2]]
+§ 2º Na hipótese de necessidade de envio de documentos complementares após o julgamento da proposta, os
+documentos deverão ser apresentados em formato digital, via sistema, no prazo definido no edital, após solicitação do
+pregoeiro no sistema eletrônico, observado o prazo disposto no § 2º do art. 38.
+[[PARAGRAPH: §3]]
+§ 3º A verificação pelo órgão ou entidade promotora do certame nos sítios eletrônicos oficiais de órgãos e
+entidades emissores de certidões constitui meio legal de prova, para fins de habilitação.
+[[PARAGRAPH: §4]]
+§ 4º Na hipótese de a proposta vencedora não for aceitável ou o licitante não atender às exigências para
+habilitação, o pregoeiro examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, até a
+apuração de uma proposta que atenda ao edital.
+[[PARAGRAPH: §5]]
+§ 5º Na hipótese de contratação de serviços comuns em que a legislação ou o edital exija apresentação de
+planilha de composição de preços, esta deverá ser encaminhada exclusivamente via sistema, no prazo fixado no
+edital, com os respectivos valores readequados ao lance vencedor.
+[[PARAGRAPH: §6]]
+§ 6º No pregão, na forma eletrônica, realizado para o sistema de registro de preços, quando a proposta do
+licitante vencedor não atender ao quantitativo total estimado para a contratação, poderá ser convocada a quantidade
+de licitantes necessária para alcançar o total estimado, respeitada a ordem de classificação, observado o preço da
+proposta vencedora, precedida de posterior habilitação, nos termos do disposto no Capítulo X.
+[[PARAGRAPH: §7]]
+§ 7º A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte
+será exigida nos termos do disposto no art. 4º do Decreto nº 8.538, de 6 de outubro de 2015.
+[[PARAGRAPH: §8]]
+§ 8º Constatado o atendimento às exigências estabelecidas no edital, o licitante será declarado vencedor.
