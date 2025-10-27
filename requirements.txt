@@ -1,0 +1,17 @@
+ipykernel==6.30.1
+pandas==2.3.2
+dotenv==0.9.9
+google-cloud-aiplatform==1.122.0
+sentencepiece==0.2.1
+pymupdf==1.26.5
+langchain==1.0.2
+langchain-core==1.0.1
+langchain-text-splitters==1.0.0
+langchain_community==0.4
+langchain_huggingface==1.0.0
+sentence-transformers==5.1.2
+faiss-cpu==1.12.0
+langchain-google-genai==3.0.0
+google-ai-generativelanguage==0.9.0
+google-adk==1.14.1
+google-generativeai==0.8.5
