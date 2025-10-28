@@ -2,7 +2,7 @@ from google.adk.agents import Agent
 from .tools import consultar_base_rag
 
 root_agent = Agent(
-    name="rag",
+    name="rag_v1",
     model="gemini-2.5-flash",
     description=(
         "Assistente especializado em licitação, dispensa por valor, "

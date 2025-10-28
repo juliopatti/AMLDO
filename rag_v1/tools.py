@@ -1,5 +1,3 @@
-# /home/julio/Documentos/agents_pos/amldo/AMLDO/rag/tools.py
-
 import os
 from dotenv import load_dotenv
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -11,9 +9,6 @@ from langchain.chat_models import init_chat_model
 
 load_dotenv()
 
-# -------------------------------------------------
-# Inicializações globais (carregam uma vez só)
-# -------------------------------------------------
 
 # LLM usado dentro do RAG
 llm = init_chat_model("gemini-2.5-flash", model_provider="google_genai")
